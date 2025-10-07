@@ -19,10 +19,10 @@ const Apps = () => {
         Explore All Apps on the Market developed by us. We code for Millions
       </p>
       <div className="flex justify-between items-center max-w-6xl mx-auto py-10">
-        <h1 className="text-2xl font-semibold">
+        <h1 className="text-lg lg:text-2xl font-semibold">
           ({searchedApps.length}) Apps Found
         </h1>
-        <label className="input">
+        <label className="input mr-2 lg:mr-0">
           <svg
             className="h-[1em] opacity-50"
             xmlns="http://www.w3.org/2000/svg"

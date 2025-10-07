@@ -5,7 +5,7 @@ const AppsCard = ({app}) => {
   const { image, title, companyName, downloads, ratingAvg } = app;
   // console.log(app);
   return (
-    <div className="card bg-base-100 shadow-sm">
+    <div className="card bg-base-100 shadow-sm hover:scale-105 transition ease-in-out">
       <figure className="px-5 pt-5">
         <img src={image} alt="Apps" className="rounded-lg" />
       </figure>
