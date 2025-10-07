@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=512",
+    "image": "https://plus.unsplash.com/premium_photo-1700520223874-f7acf744d15d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "FitTrack Pro",
     "companyName": "HealthTech Solutions",
     "id": 1,
@@ -8,7 +8,7 @@
     "size": 45.8,
     "reviews": 128450,
     "ratingAvg": 4.6,
-    "downloads": 5200000,
+    "downloads": "5.2M",
     "ratings": [
       { "name": "1 star", "count": 3850 },
       { "name": "2 star", "count": 5120 },
@@ -26,7 +26,7 @@
     "size": 67.3,
     "reviews": 245680,
     "ratingAvg": 4.7,
-    "downloads": 8500000,
+    "downloads": "8.5M",
     "ratings": [
       { "name": "1 star", "count": 4910 },
       { "name": "2 star", "count": 7370 },
@@ -44,7 +44,7 @@
     "size": 38.5,
     "reviews": 186920,
     "ratingAvg": 4.5,
-    "downloads": 6800000,
+    "downloads": "6.8M",
     "ratings": [
       { "name": "1 star", "count": 5610 },
       { "name": "2 star", "count": 9350 },
@@ -62,7 +62,7 @@
     "size": 125.7,
     "reviews": 342560,
     "ratingAvg": 4.8,
-    "downloads": 12000000,
+    "downloads": "1.2M",
     "ratings": [
       { "name": "1 star", "count": 6850 },
       { "name": "2 star", "count": 10280 },
@@ -73,7 +73,7 @@
   },
   {
     "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=512",
-    "title": "MindfulMoments Meditation",
+    "title": "Mindful Meditation",
     "companyName": "Wellness Innovations",
     "id": 5,
     "description": "Find peace and clarity in your busy life with MindfulMoments Meditation, your personal guide to mental wellness and stress relief. Our extensive library features over 1,000 guided meditations led by experienced teachers, covering everything from anxiety relief and better sleep to focus enhancement and emotional healing. Whether you have 3 minutes or 30 minutes, we offer sessions perfectly suited to your schedule and needs. Explore breathing exercises, body scan techniques, and mindfulness practices designed to reduce stress, improve concentration, and boost overall well-being. The app includes specialized programs for beginners, intermediate practitioners, and advanced meditators, ensuring everyone finds content that resonates with their journey. Track your meditation streak, monitor your progress, and observe how consistent practice positively impacts your mood and mental state. Features include customizable ambient sounds, meditation timers, daily reminders, and a supportive community forum where you can share experiences and insights with fellow practitioners seeking inner peace.",
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1533159950742-c3c44f8a3583?w=512",
+    "image": "https://plus.unsplash.com/premium_photo-1700495922514-7cb4f692cd72?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "TravelGuide Explorer",
     "companyName": "Adventure Apps Co",
     "id": 8,
