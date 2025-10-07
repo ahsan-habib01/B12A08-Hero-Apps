@@ -1,0 +1,506 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=512",
+    "title": "FitTrack Pro",
+    "companyName": "HealthTech Solutions",
+    "id": 1,
+    "description": "FitTrack Pro is your ultimate fitness companion designed to help you achieve your health and wellness goals. Whether you're a beginner or an experienced athlete, our comprehensive tracking system monitors your daily activities, workouts, nutrition, and sleep patterns. The app features personalized workout plans created by certified trainers, detailed calorie tracking with a database of over 2 million foods, and integration with popular fitness devices. Track your progress with beautiful charts and statistics, join community challenges to stay motivated, and receive AI-powered recommendations tailored to your fitness level. Our advanced sleep monitoring helps you understand your rest patterns, while the water intake tracker ensures you stay hydrated throughout the day. Connect with friends, share achievements, and celebrate milestones together in our supportive fitness community.",
+    "size": 45.8,
+    "reviews": 128450,
+    "ratingAvg": 4.6,
+    "downloads": 5200000,
+    "ratings": [
+      { "name": "1 star", "count": 3850 },
+      { "name": "2 star", "count": 5120 },
+      { "name": "3 star", "count": 12840 },
+      { "name": "4 star", "count": 38560 },
+      { "name": "5 star", "count": 68080 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=512",
+    "title": "MealMaster Chef",
+    "companyName": "Culinary Apps Inc",
+    "id": 2,
+    "description": "MealMaster Chef transforms your cooking experience with over 50,000 delicious recipes from around the world. Whether you're looking for quick weeknight dinners, elaborate weekend feasts, or healthy meal prep ideas, our extensive collection has something for everyone. Each recipe comes with step-by-step video instructions, nutritional information, and customizable serving sizes. Create personalized meal plans based on your dietary preferences, generate smart shopping lists that organize ingredients by store section, and discover new dishes through our AI-powered recommendation engine. Save your favorite recipes, add personal notes, and share your culinary creations with our vibrant community of food lovers. The app includes special features like ingredient substitution suggestions, cooking timers, and conversion calculators. Perfect for beginners and experienced cooks alike, MealMaster Chef makes home cooking accessible, enjoyable, and stress-free.",
+    "size": 67.3,
+    "reviews": 245680,
+    "ratingAvg": 4.7,
+    "downloads": 8500000,
+    "ratings": [
+      { "name": "1 star", "count": 4910 },
+      { "name": "2 star", "count": 7370 },
+      { "name": "3 star", "count": 24570 },
+      { "name": "4 star", "count": 73680 },
+      { "name": "5 star", "count": 135150 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=512",
+    "title": "BudgetWise Finance",
+    "companyName": "MoneyMatters Corp",
+    "id": 3,
+    "description": "Take control of your financial future with BudgetWise Finance, the comprehensive money management app trusted by millions worldwide. Our intuitive platform helps you track expenses, create realistic budgets, and achieve your savings goals faster than ever before. Connect all your bank accounts, credit cards, and investment accounts in one secure location with bank-level encryption protecting your sensitive data. The app automatically categorizes transactions, identifies spending patterns, and provides actionable insights to help you make smarter financial decisions. Set up custom budget categories, receive alerts when you're approaching limits, and visualize your cash flow with interactive charts and graphs. Plan for major purchases, track debt payoff progress, and monitor your net worth over time. Our bill reminder feature ensures you never miss a payment, while the savings goal tracker keeps you motivated on your journey to financial independence. Perfect for individuals, couples, and families looking to build better money habits.",
+    "size": 38.5,
+    "reviews": 186920,
+    "ratingAvg": 4.5,
+    "downloads": 6800000,
+    "ratings": [
+      { "name": "1 star", "count": 5610 },
+      { "name": "2 star", "count": 9350 },
+      { "name": "3 star", "count": 18690 },
+      { "name": "4 star", "count": 74760 },
+      { "name": "5 star", "count": 78510 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=512",
+    "title": "LinguaLearn Languages",
+    "companyName": "Global Education Tech",
+    "id": 4,
+    "description": "Master any language with LinguaLearn Languages, the award-winning app that makes learning fun, effective, and engaging. Choose from 40+ languages including Spanish, French, German, Japanese, Korean, Mandarin, and many more. Our scientifically-proven methodology combines interactive lessons, real-world conversations, and gamified exercises to help you achieve fluency faster. Practice speaking with advanced speech recognition technology, improve your listening skills with native speaker audio, and build vocabulary through spaced repetition flashcards. The app adapts to your learning pace and style, creating personalized lesson plans that keep you challenged but never overwhelmed. Connect with language partners worldwide for conversation practice, complete daily challenges to maintain your streak, and earn achievements as you progress. Whether you're learning for travel, career advancement, or personal enrichment, LinguaLearn provides the tools and support you need to succeed. Offline mode lets you learn anywhere, anytime, even without an internet connection.",
+    "size": 125.7,
+    "reviews": 342560,
+    "ratingAvg": 4.8,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 6850 },
+      { "name": "2 star", "count": 10280 },
+      { "name": "3 star", "count": 27410 },
+      { "name": "4 star", "count": 102770 },
+      { "name": "5 star", "count": 195250 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=512",
+    "title": "MindfulMoments Meditation",
+    "companyName": "Wellness Innovations",
+    "id": 5,
+    "description": "Find peace and clarity in your busy life with MindfulMoments Meditation, your personal guide to mental wellness and stress relief. Our extensive library features over 1,000 guided meditations led by experienced teachers, covering everything from anxiety relief and better sleep to focus enhancement and emotional healing. Whether you have 3 minutes or 30 minutes, we offer sessions perfectly suited to your schedule and needs. Explore breathing exercises, body scan techniques, and mindfulness practices designed to reduce stress, improve concentration, and boost overall well-being. The app includes specialized programs for beginners, intermediate practitioners, and advanced meditators, ensuring everyone finds content that resonates with their journey. Track your meditation streak, monitor your progress, and observe how consistent practice positively impacts your mood and mental state. Features include customizable ambient sounds, meditation timers, daily reminders, and a supportive community forum where you can share experiences and insights with fellow practitioners seeking inner peace.",
+    "size": 52.4,
+    "reviews": 198730,
+    "ratingAvg": 4.7,
+    "downloads": 7300000,
+    "ratings": [
+      { "name": "1 star", "count": 3970 },
+      { "name": "2 star", "count": 5960 },
+      { "name": "3 star", "count": 19870 },
+      { "name": "4 star", "count": 79490 },
+      { "name": "5 star", "count": 89440 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1495364141860-b0d03eccd065?w=512",
+    "title": "PhotoPro Editor",
+    "companyName": "Creative Media Labs",
+    "id": 6,
+    "description": "Unleash your creativity with PhotoPro Editor, the professional-grade photo editing app that puts powerful tools at your fingertips. Transform ordinary photos into stunning masterpieces with our comprehensive suite of editing features including advanced filters, precise color adjustment tools, selective editing capabilities, and AI-powered enhancements. Remove unwanted objects seamlessly with our content-aware healing brush, adjust lighting and exposure with professional precision, and apply artistic effects that rival desktop software. The app supports RAW image editing, layer-based composition, and non-destructive editing so you can experiment freely without losing your original images. Create beautiful collages, add text and stickers with customizable fonts and designs, and apply professional presets created by top photographers. Whether you're editing social media posts, preparing images for print, or pursuing photography as a serious hobby, PhotoPro Editor provides everything you need. Export in multiple formats and resolutions, batch process multiple images, and seamlessly share your creations across all your favorite platforms.",
+    "size": 89.2,
+    "reviews": 456780,
+    "ratingAvg": 4.6,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 9140 },
+      { "name": "2 star", "count": 13700 },
+      { "name": "3 star", "count": 45680 },
+      { "name": "4 star", "count": 182710 },
+      { "name": "5 star", "count": 205550 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=512",
+    "title": "TaskFlow Organizer",
+    "companyName": "Productivity Plus",
+    "id": 7,
+    "description": "Maximize your productivity and never miss a deadline with TaskFlow Organizer, the ultimate task management and organization app for busy professionals, students, and anyone looking to get more done. Create detailed to-do lists, set priorities, establish deadlines, and organize tasks into projects and categories that match your workflow. Our intelligent scheduling algorithm suggests optimal times to complete tasks based on your habits and energy levels throughout the day. Collaborate with teammates by sharing projects, assigning tasks, and tracking progress in real-time. The app syncs seamlessly across all your devices, ensuring your task lists are always up-to-date whether you're on your phone, tablet, or computer. Set recurring tasks for routine responsibilities, create subtasks for complex projects, and attach files, notes, and links to keep all relevant information in one place. Visualize your workload with multiple view options including list, calendar, and kanban board formats. Receive smart reminders based on location and time, track time spent on tasks, and generate productivity reports to identify areas for improvement.",
+    "size": 41.6,
+    "reviews": 167890,
+    "ratingAvg": 4.5,
+    "downloads": 5900000,
+    "ratings": [
+      { "name": "1 star", "count": 5040 },
+      { "name": "2 star", "count": 8390 },
+      { "name": "3 star", "count": 16790 },
+      { "name": "4 star", "count": 67160 },
+      { "name": "5 star", "count": 70510 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1533159950742-c3c44f8a3583?w=512",
+    "title": "TravelGuide Explorer",
+    "companyName": "Adventure Apps Co",
+    "id": 8,
+    "description": "Discover the world with TravelGuide Explorer, your comprehensive travel companion for planning unforgettable adventures. Access detailed guides for over 10,000 destinations worldwide, featuring insider tips, must-see attractions, hidden gems, and authentic local experiences that typical tourists miss. Plan your entire trip with our intuitive itinerary builder, book accommodations and activities, and receive personalized recommendations based on your interests and travel style. The app includes offline maps with GPS navigation, ensuring you never get lost even without an internet connection. Read reviews from real travelers, view stunning photos of destinations, and discover the best restaurants, cafes, museums, and entertainment options in every city. Create packing lists customized to your destination's climate and activities, track your travel expenses, and maintain a visual travel journal to document your memories. Learn essential phrases in local languages, understand cultural customs and etiquette, and stay informed about safety considerations. Whether you're a budget backpacker or luxury traveler, solo explorer or family vacationer, TravelGuide Explorer helps you make the most of every journey.",
+    "size": 156.3,
+    "reviews": 289340,
+    "ratingAvg": 4.6,
+    "downloads": 9200000,
+    "ratings": [
+      { "name": "1 star", "count": 5790 },
+      { "name": "2 star", "count": 8680 },
+      { "name": "3 star", "count": 28930 },
+      { "name": "4 star", "count": 115740 },
+      { "name": "5 star", "count": 130200 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1509909756405-be0199881695?w=512",
+    "title": "MusicStream Premium",
+    "companyName": "SoundWave Technologies",
+    "id": 9,
+    "description": "Experience music like never before with MusicStream Premium, offering unlimited access to over 80 million songs, podcasts, and audiobooks from every genre imaginable. Discover new artists through our AI-powered recommendation engine that learns your tastes and creates personalized playlists just for you. Stream in high-definition audio quality up to lossless FLAC format for the ultimate listening experience, or download your favorite tracks for offline playback during flights, commutes, or anywhere without connectivity. Create unlimited playlists, follow your favorite artists to get notifications about new releases, and explore curated collections created by music experts and influencers. The app features lyrics display with real-time synchronization, allowing you to sing along to your favorite songs. Connect with friends to see what they're listening to, share tracks and playlists, and collaborate on group playlists for parties and gatherings. Access exclusive content including live performances, acoustic versions, behind-the-scenes interviews, and early releases from top artists. Compatible with all your devices and smart speakers for seamless listening throughout your home.",
+    "size": 72.8,
+    "reviews": 678920,
+    "ratingAvg": 4.4,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 20370 },
+      { "name": "2 star", "count": 27160 },
+      { "name": "3 star", "count": 67890 },
+      { "name": "4 star", "count": 271570 },
+      { "name": "5 star", "count": 291930 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=512",
+    "title": "CodeLearn Programming",
+    "companyName": "TechEducation Inc",
+    "id": 10,
+    "description": "Launch your programming career or enhance your coding skills with CodeLearn Programming, the interactive learning platform trusted by over 10 million aspiring developers worldwide. Master popular programming languages including Python, JavaScript, Java, C++, Swift, Ruby, and many more through hands-on coding exercises and real-world projects. Our bite-sized lessons fit into your busy schedule, allowing you to learn during your commute, lunch break, or whenever you have a few spare minutes. Each course is designed by industry experts and updated regularly to reflect current best practices and emerging technologies. Practice coding directly in the app with our built-in code editor and compiler, receive instant feedback on your solutions, and earn certificates upon course completion. Progress from basic syntax to advanced concepts like data structures, algorithms, web development, mobile app creation, and machine learning. Join coding challenges and competitions to test your skills against other learners, ask questions in our active community forums, and get help from mentors when you're stuck. Whether you're a complete beginner or experienced programmer looking to learn new technologies, CodeLearn provides a clear path to coding mastery.",
+    "size": 95.4,
+    "reviews": 423560,
+    "ratingAvg": 4.7,
+    "downloads": 11000000,
+    "ratings": [
+      { "name": "1 star", "count": 8470 },
+      { "name": "2 star", "count": 12710 },
+      { "name": "3 star", "count": 42360 },
+      { "name": "4 star", "count": 169420 },
+      { "name": "5 star", "count": 190600 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=512",
+    "title": "ShopSmart Deals",
+    "companyName": "E-Commerce Solutions",
+    "id": 11,
+    "description": "Save money on every purchase with ShopSmart Deals, the ultimate shopping companion that helps you find the best prices, coupons, and promotions across thousands of online and local retailers. Our powerful price comparison engine scans millions of products in real-time to ensure you never overpay again. Simply scan any barcode or search for items you want, and instantly see where to buy them at the lowest price. Receive personalized deal alerts for products on your wishlist, get notifications when prices drop, and access exclusive coupon codes not available elsewhere. The app aggregates sales from major retailers, boutique stores, and marketplaces, covering everything from electronics and fashion to home goods and groceries. Create shopping lists organized by store or category, track price history with interactive charts, and use our cashback program to earn money back on qualifying purchases. Share great deals with friends and family, read verified product reviews from real customers, and make informed purchasing decisions. Our browser extension automatically applies the best available coupons at checkout, ensuring maximum savings on every online order without any extra effort.",
+    "size": 48.9,
+    "reviews": 312450,
+    "ratingAvg": 4.5,
+    "downloads": 13500000,
+    "ratings": [
+      { "name": "1 star", "count": 9370 },
+      { "name": "2 star", "count": 15620 },
+      { "name": "3 star", "count": 31250 },
+      { "name": "4 star", "count": 124980 },
+      { "name": "5 star", "count": 131230 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=512",
+    "title": "WeatherWise Forecast",
+    "companyName": "Climate Data Systems",
+    "id": 12,
+    "description": "Stay prepared for any weather condition with WeatherWise Forecast, the most accurate and comprehensive weather app available. Get hyperlocal forecasts powered by advanced meteorological models and data from thousands of weather stations worldwide. View hourly predictions for the next 48 hours and extended forecasts for up to 15 days ahead, including temperature, precipitation probability, wind speed and direction, humidity, UV index, and air quality measurements. Our innovative radar maps display real-time precipitation, storm tracking, and severe weather alerts to keep you safe during dangerous conditions. Receive customizable notifications for weather events that matter to you, whether that's rain alerts before your morning commute, snow warnings for winter sports planning, or temperature drops affecting your garden. The app includes specialized features for outdoor enthusiasts including sunrise and sunset times, moon phases, tide predictions for coastal areas, and pollen forecasts for allergy sufferers. Compare weather between multiple locations simultaneously, view historical weather data and climate averages, and access detailed meteorological information perfect for weather enthusiasts. Beautiful widgets display current conditions right on your home screen.",
+    "size": 34.7,
+    "reviews": 267830,
+    "ratingAvg": 4.6,
+    "downloads": 18000000,
+    "ratings": [
+      { "name": "1 star", "count": 5360 },
+      { "name": "2 star", "count": 8030 },
+      { "name": "3 star", "count": 26780 },
+      { "name": "4 star", "count": 107130 },
+      { "name": "5 star", "count": 120530 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1535016120720-40c646be5580?w=512",
+    "title": "PetCare Companion",
+    "companyName": "Animal Wellness Apps",
+    "id": 13,
+    "description": "Provide the best care for your furry, feathered, or scaled friends with PetCare Companion, the comprehensive pet management app designed for responsible pet owners. Track all aspects of your pet's health including vaccination records, medication schedules, vet appointments, and medical history in one secure, organized location. Set reminders for important tasks like feeding times, medication doses, grooming appointments, and flea and tick prevention. Monitor your pet's weight, exercise levels, and dietary intake to ensure they maintain optimal health throughout their life. The app includes an extensive library of pet care articles written by veterinarians, covering topics from training and behavior to nutrition and common health issues. Find trusted local pet services including veterinarians, groomers, trainers, and pet sitters with reviews from other pet owners. Create profiles for multiple pets with photos and important details, making it easy to share information with pet sitters or emergency contacts. Access a symptom checker to determine when veterinary care might be needed, track behavioral changes over time, and maintain a photo journal documenting your pet's life and special moments.",
+    "size": 55.3,
+    "reviews": 145670,
+    "ratingAvg": 4.7,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 2910 },
+      { "name": "2 star", "count": 4370 },
+      { "name": "3 star", "count": 14570 },
+      { "name": "4 star", "count": 58270 },
+      { "name": "5 star", "count": 65550 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?w=512",
+    "title": "AutoTrack Vehicle Manager",
+    "companyName": "Motor Management Solutions",
+    "id": 14,
+    "description": "Keep your vehicle running smoothly and maximize its resale value with AutoTrack Vehicle Manager, the essential app for car owners who care about maintenance and performance. Track all service history including oil changes, tire rotations, brake service, and major repairs with digital receipt storage and automatic mileage logging. Set customized maintenance reminders based on time or mileage intervals so you never miss important service appointments. Monitor fuel consumption and track gas expenses to identify trends and improve efficiency, calculate your true cost of ownership, and identify potential mechanical issues before they become expensive problems. The app includes a comprehensive maintenance schedule database for thousands of vehicle makes and models, ensuring you follow manufacturer recommendations precisely. Find nearby service stations, compare prices for repairs and parts, and read reviews from other drivers. Store important vehicle information including VIN, registration, insurance details, and warranty information for quick access during emergencies or service visits. Track multiple vehicles for families with several cars or small business fleets. Generate detailed reports for tax purposes or resale documentation, and receive alerts for registration renewals, insurance policy expirations, and emission testing requirements in your area.",
+    "size": 42.1,
+    "reviews": 98750,
+    "ratingAvg": 4.4,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 2960 },
+      { "name": "2 star", "count": 4940 },
+      { "name": "3 star", "count": 9880 },
+      { "name": "4 star", "count": 39500 },
+      { "name": "5 star", "count": 41470 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=512",
+    "title": "StudyBuddy Academic",
+    "companyName": "Education Tech Group",
+    "id": 15,
+    "description": "Excel in your studies with StudyBuddy Academic, the comprehensive learning platform designed to help students of all ages achieve academic success. Create effective study schedules that balance multiple subjects and extracurricular activities, use proven study techniques like spaced repetition and active recall, and track your progress across all courses with detailed analytics. The app features powerful tools for note-taking including text formatting, image insertion, audio recording, and handwriting recognition for tablet users. Organize notes by subject, semester, or topic with tags and folders, and quickly search your entire note library to find information when you need it. Generate custom flashcards with text, images, and audio for efficient memorization, then study using our scientifically-optimized review algorithm that adapts to your learning pace. Set study goals, monitor time spent on each subject, and celebrate achievements with milestone tracking and rewards. Collaborate with classmates by sharing notes and study materials, form virtual study groups, and quiz each other with practice tests. Access a library of educational resources including video tutorials, practice problems, and exam preparation materials. Perfect for high school students, college undergraduates, graduate students, and lifelong learners pursuing professional certifications.",
+    "size": 68.5,
+    "reviews": 234890,
+    "ratingAvg": 4.6,
+    "downloads": 7800000,
+    "ratings": [
+      { "name": "1 star", "count": 4700 },
+      { "name": "2 star", "count": 7050 },
+      { "name": "3 star", "count": 23490 },
+      { "name": "4 star", "count": 93960 },
+      { "name": "5 star", "count": 105690 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=512",
+    "title": "JobSeeker Professional",
+    "companyName": "Career Development Corp",
+    "id": 16,
+    "description": "Land your dream job faster with JobSeeker Professional, the all-in-one career management platform that streamlines your job search process. Browse thousands of job listings from top employers across all industries, with advanced filters to find positions matching your skills, experience level, salary requirements, and location preferences. Create a professional resume using our expert-designed templates, or import your existing resume for AI-powered optimization that increases your chances of passing applicant tracking systems. The app analyzes job descriptions and suggests keyword improvements to make your resume more competitive. Track all your job applications in one organized dashboard, set reminders for follow-ups, and record interview notes and networking contacts. Access a comprehensive library of career resources including interview preparation guides, salary negotiation tips, and industry-specific advice from career coaches. Practice common interview questions with our virtual interview simulator, receive feedback on your responses, and build confidence before the real thing. Network with professionals in your field, get referrals for open positions, and stay informed about hiring trends in your industry. Receive personalized job recommendations based on your profile and activity, with instant notifications when new positions match your criteria.",
+    "size": 51.7,
+    "reviews": 156340,
+    "ratingAvg": 4.5,
+    "downloads": 5400000,
+    "ratings": [
+      { "name": "1 star", "count": 4690 },
+      { "name": "2 star", "count": 7820 },
+      { "name": "3 star", "count": 15630 },
+      { "name": "4 star", "count": 62540 },
+      { "name": "5 star", "count": 65660 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=512",
+    "title": "HomeDesign Interior",
+    "companyName": "Creative Spaces LLC",
+    "id": 17,
+    "description": "Transform your living space into the home of your dreams with HomeDesign Interior, the powerful room design and visualization app that puts professional interior design tools in your hands. Use augmented reality technology to virtually place furniture and decor items in your actual rooms before making purchases, eliminating costly mistakes and ensuring perfect fit and style. Browse thousands of furniture pieces, lighting fixtures, rugs, artwork, and accessories from top brands and retailers, with options for every budget and aesthetic preference. Create detailed floor plans with accurate measurements, experiment with different layouts to optimize space and flow, and visualize multiple design concepts side by side. The app includes an extensive color palette tool for painting walls, with the ability to see how different shades look in your actual lighting conditions throughout the day. Save inspiration photos to mood boards organized by room or style, share designs with family members or contractors for feedback, and generate shopping lists with direct links to purchase items you've selected. Access design guides and tips from professional interior designers, learn about current trends and timeless principles, and discover solutions for common design challenges. Whether you're planning a complete home renovation or just refreshing a single room, HomeDesign Interior makes the process enjoyable and stress-free.",
+    "size": 178.6,
+    "reviews": 187920,
+    "ratingAvg": 4.6,
+    "downloads": 6200000,
+    "ratings": [
+      { "name": "1 star", "count": 3760 },
+      { "name": "2 star", "count": 5640 },
+      { "name": "3 star", "count": 18790 },
+      { "name": "4 star", "count": 75170 },
+      { "name": "5 star", "count": 84560 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=512",
+    "title": "BabyTracker Parents",
+    "companyName": "Family First Apps",
+    "id": 18,
+    "description": "Navigate the beautiful journey of parenthood with confidence using BabyTracker Parents, the essential app for new and experienced parents alike. Track all aspects of your baby's daily routine including feeding times and amounts, diaper changes, sleep patterns, and developmental milestones. The app provides valuable insights into your baby's habits and rhythms, helping you identify patterns and potential issues early. Log breastfeeding sessions with timer functions for each side, record bottle feeding amounts and types, and track pumping sessions for mothers building a supply. Monitor growth with weight and height measurements plotted on WHO growth charts, ensuring your baby is developing healthily. Set reminders for important tasks like medicine administration, doctor appointments, and vaccination schedules. Access a comprehensive library of parenting articles written by pediatricians and child development experts, covering everything from newborn care to toddler behavior. Share access with partners, grandparents, or caregivers so everyone stays informed about baby's needs and routines. Capture precious memories with the integrated photo journal, recording first smiles, words, and steps. Generate detailed reports to share with healthcare providers during checkups. The app supports multiple children with separate profiles, making it perfect for families with twins or growing families.",
+    "size": 63.2,
+    "reviews": 213470,
+    "ratingAvg": 4.8,
+    "downloads": 8900000,
+    "ratings": [
+      { "name": "1 star", "count": 4270 },
+      { "name": "2 star", "count": 6400 },
+      { "name": "3 star", "count": 21350 },
+      { "name": "4 star", "count": 64040 },
+      { "name": "5 star", "count": 117410 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=512",
+    "title": "MathMaster Calculator",
+    "companyName": "STEM Education Tools",
+    "id": 19,
+    "description": "Solve any mathematical problem with ease using MathMaster Calculator, the advanced computational tool that goes far beyond basic arithmetic. Whether you're a student tackling homework, a professional handling complex calculations, or anyone who needs reliable mathematical assistance, this app provides the features you need. Perform standard operations as well as advanced functions including trigonometry, logarithms, exponentials, statistics, and calculus. The app includes a powerful equation solver that handles linear, quadratic, and polynomial equations, along with systems of equations with multiple variables. Visualize mathematical concepts with the integrated graphing calculator that plots functions in 2D and 3D, helping you understand relationships between variables. Convert between units of measurement covering length, weight, volume, temperature, currency, and more. The step-by-step solution feature breaks down complex problems into understandable stages, perfect for learning and homework checking. Save calculation history for future reference, create custom formulas you use frequently, and organize calculations into projects or subjects. The scientific notation mode handles very large and very small numbers with precision, while the fraction calculator works with rational numbers.",
+    "size": 44.8,
+    "reviews": 178960,
+    "ratingAvg": 4.7,
+    "downloads": 9500000,
+    "ratings": [
+      { "name": "1 star", "count": 3580 },
+      { "name": "2 star", "count": 5370 },
+      { "name": "3 star", "count": 17900 },
+      { "name": "4 star", "count": 71580 },
+      { "name": "5 star", "count": 80530 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=512",
+    "title": "NewsHub Daily",
+    "companyName": "Digital Media Network",
+    "id": 20,
+    "description": "Stay informed about the world around you with NewsHub Daily, your personalized news aggregator that delivers breaking stories and in-depth analysis from trusted sources worldwide. Customize your news feed by selecting topics that interest you including politics, business, technology, science, entertainment, sports, health, and more. The app's intelligent algorithm learns your preferences over time, surfacing articles that match your interests while still exposing you to important stories you might otherwise miss. Read from thousands of reputable news outlets including major newspapers, magazines, and independent journalists, all curated in one convenient location. Save articles to read later when you have more time, create collections organized by topic or project, and share interesting stories with friends and colleagues through social media or messaging apps. The app offers both brief summaries for quick scanning and full article access for deeper dives into complex topics. Enable push notifications for breaking news in categories you care about, ensuring you're always among the first to know about major developments. Enjoy a clean, ad-free reading experience with customizable text size and display modes including dark mode for comfortable nighttime reading. Access offline reading for downloaded articles during flights or commutes without connectivity.",
+    "size": 58.4,
+    "reviews": 345670,
+    "ratingAvg": 4.5,
+    "downloads": 14000000,
+    "ratings": [
+      { "name": "1 star", "count": 10370 },
+      { "name": "2 star", "count": 17280 },
+      { "name": "3 star", "count": 34570 },
+      { "name": "4 star", "count": 138270 },
+      { "name": "5 star", "count": 145180 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=512",
+    "title": "SocialConnect Network",
+    "companyName": "Community Apps Inc",
+    "id": 21,
+    "description": "Build meaningful connections and stay in touch with the people who matter most using SocialConnect Network, the social platform designed to foster authentic relationships and community engagement. Share updates, photos, and videos with your network through an intuitive posting interface that supports various media types and formats. Create and join groups based on shared interests, hobbies, professional fields, or local communities, facilitating discussions and collaborations with like-minded individuals. The app's privacy-first design gives you complete control over who sees your content, with granular sharing options for each post and robust blocking and reporting tools to maintain a safe environment. Organize events and gatherings with built-in RSVP tracking, send invitations to your connections, and coordinate details through group messaging. Discover new connections through intelligent suggestions based on mutual friends, shared interests, and location, expanding your social and professional network organically. Follow public figures, brands, and organizations to stay updated on their activities and announcements. The integrated messaging system supports text, voice, and video calls with end-to-end encryption protecting your private conversations. Create stories that disappear after 24 hours for casual, spontaneous sharing, or post permanent updates to your profile timeline.",
+    "size": 92.7,
+    "reviews": 892340,
+    "ratingAvg": 4.3,
+    "downloads": 35000000,
+    "ratings": [
+      { "name": "1 star", "count": 35690 },
+      { "name": "2 star", "count": 53540 },
+      { "name": "3 star", "count": 89230 },
+      { "name": "4 star", "count": 356940 },
+      { "name": "5 star", "count": 356940 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=512",
+    "title": "GardenGrow Planner",
+    "companyName": "Green Thumb Technologies",
+    "id": 22,
+    "description": "Cultivate a thriving garden with GardenGrow Planner, the comprehensive gardening app that helps both novice and experienced gardeners achieve beautiful, productive gardens. Access a vast plant database with detailed information about thousands of flowers, vegetables, herbs, trees, and shrubs including growing requirements, care instructions, and companion planting suggestions. Plan your garden layout with the visual designer tool that accounts for sun exposure, soil conditions, and mature plant sizes, ensuring optimal placement for healthy growth. Set customized reminders for watering, fertilizing, pruning, and pest control tasks based on each plant's specific needs and your local climate. Track your garden's progress with photo journals documenting growth from seed to harvest, record notes about what works well and what needs adjustment for next season. The app includes a seasonal planting calendar customized to your hardiness zone, telling you exactly when to start seeds indoors, transplant seedlings, and expect harvests. Identify plant problems with the disease and pest diagnostic tool featuring photos and treatment recommendations, troubleshoot nutrient deficiencies, and learn organic gardening methods. Connect with other gardeners in your area to share seeds, swap plants, and exchange advice through the community forum.",
+    "size": 87.3,
+    "reviews": 123890,
+    "ratingAvg": 4.7,
+    "downloads": 3800000,
+    "ratings": [
+      { "name": "1 star", "count": 2480 },
+      { "name": "2 star", "count": 3720 },
+      { "name": "3 star", "count": 12390 },
+      { "name": "4 star", "count": 49560 },
+      { "name": "5 star", "count": 55740 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1560439514-4e9645039924?w=512",
+    "title": "VideoEdit Pro Studio",
+    "companyName": "Digital Content Creators",
+    "id": 23,
+    "description": "Create stunning videos with professional quality using VideoEdit Pro Studio, the powerful mobile video editing app that rivals desktop software. Import clips from your camera roll or record directly within the app, then arrange them on the intuitive timeline with drag-and-drop simplicity. Trim and split clips with frame-accurate precision, adjust playback speed for dramatic slow-motion or fast-forward effects, and reverse footage for creative transitions. Apply color grading and correction to achieve cinematic looks, adjust brightness, contrast, saturation, and temperature, or use preset filters created by professional colorists. Add multiple layers of video, images, and graphics to create picture-in-picture effects, overlay text with animated templates and customizable fonts, and insert stickers and emojis that track movement in your footage. The audio editing tools let you mix multiple sound tracks, adjust volume levels, apply fade in and fade out effects, and remove background noise. Access a library of royalty-free music and sound effects to enhance your videos, or import your own audio files. Create smooth transitions between clips with dozens of preset options or design custom animations. Export in various resolutions up to 4K with format options optimized for different platforms including YouTube, Instagram, TikTok, and more.",
+    "size": 156.8,
+    "reviews": 389450,
+    "ratingAvg": 4.6,
+    "downloads": 16000000,
+    "ratings": [
+      { "name": "1 star", "count": 7790 },
+      { "name": "2 star", "count": 11680 },
+      { "name": "3 star", "count": 38950 },
+      { "name": "4 star", "count": 155780 },
+      { "name": "5 star", "count": 175250 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=512",
+    "title": "QuizMaster Learning",
+    "companyName": "Interactive Education Co",
+    "id": 24,
+    "description": "Make learning fun and engaging with QuizMaster Learning, the gamified educational platform that transforms studying into an exciting challenge. Choose from thousands of ready-made quizzes covering academic subjects like math, science, history, and literature, as well as general knowledge topics including geography, pop culture, sports, and current events. Create custom quizzes for personal study, classroom use, or friendly competitions with family and friends. The app supports multiple question types including multiple choice, true/false, fill-in-the-blank, and matching exercises to test different aspects of knowledge retention. Participate in live multiplayer quiz battles against players worldwide, climb the global leaderboards, and earn badges and achievements for consistent participation and high scores. The adaptive learning algorithm adjusts question difficulty based on your performance, ensuring you're always appropriately challenged without feeling overwhelmed or bored. Track your progress across different subjects with detailed statistics showing strengths and areas needing improvement, review incorrect answers with explanations to learn from mistakes, and bookmark difficult questions for focused practice later. Teachers and educators can create class groups, assign quizzes as homework, monitor student progress in real-time, and generate performance reports to identify struggling students who need additional support.",
+    "size": 71.5,
+    "reviews": 267340,
+    "ratingAvg": 4.6,
+    "downloads": 10500000,
+    "ratings": [
+      { "name": "1 star", "count": 5350 },
+      { "name": "2 star", "count": 8020 },
+      { "name": "3 star", "count": 26730 },
+      { "name": "4 star", "count": 106940 },
+      { "name": "5 star", "count": 120300 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=512",
+    "title": "SleepWell Tracker",
+    "companyName": "Rest & Recovery Apps",
+    "id": 25,
+    "description": "Improve your sleep quality and wake up refreshed with SleepWell Tracker, the comprehensive sleep monitoring app that helps you understand and optimize your nightly rest. Using advanced algorithms and your phone's sensors, the app tracks sleep stages including light sleep, deep sleep, and REM cycles throughout the night, providing detailed analysis of your sleep quality each morning. Set a sleep schedule with bedtime reminders that help you establish consistent routines proven to improve sleep quality, and wake up during your lightest sleep phase with the smart alarm that makes mornings less jarring. Record and analyze sleep disruptions including snoring, sleep talking, and environmental noises that might be affecting your rest quality. The app provides personalized recommendations based on your sleep patterns, suggesting optimal bedtime, room temperature, and pre-sleep activities that promote better rest. Track factors that might influence your sleep including caffeine intake, exercise, stress levels, and evening screen time, then review correlations to identify what helps or hinders your sleep. Access a library of relaxing sounds, white noise, and guided sleep meditations designed to help you fall asleep faster and stay asleep longer. Monitor long-term trends with weekly and monthly sleep reports, share data with healthcare providers if needed, and work toward achieving your sleep goals.",
+    "size": 49.6,
+    "reviews": 198560,
+    "ratingAvg": 4.5,
+    "downloads": 7600000,
+    "ratings": [
+      { "name": "1 star", "count": 3970 },
+      { "name": "2 star", "count": 5960 },
+      { "name": "3 star", "count": 19860 },
+      { "name": "4 star", "count": 79420 },
+      { "name": "5 star", "count": 89350 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=512",
+    "title": "CodeShare Developer",
+    "companyName": "DevTools Solutions",
+    "id": 26,
+    "description": "Collaborate on coding projects and share programming knowledge with CodeShare Developer, the social platform built specifically for developers and programmers. Share code snippets with syntax highlighting for over 200 programming languages, receive feedback and suggestions from the developer community, and discover elegant solutions to common programming challenges. Create and showcase your portfolio projects with detailed documentation, screenshots, and live demos that demonstrate your skills to potential employers or clients. Follow developers whose work inspires you, star repositories you find useful, and contribute to open-source projects directly through the app. The integrated code editor lets you write, test, and debug code on your mobile device with features like auto-completion, bracket matching, and error highlighting. Participate in coding challenges and hackathons to sharpen your skills, compete for prizes, and gain recognition in the developer community. Ask technical questions and get answers from experienced programmers, browse through millions of previously answered questions to find solutions quickly, and build your reputation by helping others solve their coding problems. Stay updated on the latest programming trends, framework releases, and best practices through curated content from industry leaders. Join specialized groups focused on specific languages, frameworks, or development areas to network with peers and learn from shared experiences.",
+    "size": 78.9,
+    "reviews": 234670,
+    "ratingAvg": 4.7,
+    "downloads": 8200000,
+    "ratings": [
+      { "name": "1 star", "count": 4690 },
+      { "name": "2 star", "count": 7040 },
+      { "name": "3 star", "count": 23470 },
+      { "name": "4 star", "count": 93870 },
+      { "name": "5 star", "count": 105600 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=512",
+    "title": "InvestSmart Portfolio",
+    "companyName": "Financial Growth Systems",
+    "id": 27,
+    "description": "Build wealth and achieve your financial goals with InvestSmart Portfolio, the comprehensive investment tracking and education platform designed for both beginner and experienced investors. Monitor your entire investment portfolio in one place by connecting brokerage accounts, retirement funds, and cryptocurrency wallets for a complete picture of your financial health. Track stocks, bonds, mutual funds, ETFs, real estate investments, and alternative assets with real-time price updates and performance analytics. View detailed breakdowns of your asset allocation across different sectors, geographic regions, and investment types, ensuring your portfolio maintains appropriate diversification for your risk tolerance and time horizon. Set investment goals whether saving for retirement, a down payment, or your children's education, and track progress with visual indicators and milestone celebrations. Access educational content covering fundamental investing concepts, technical analysis, portfolio theory, and specific investment strategies explained in clear, understandable language. Read company research reports, earnings analysis, and market commentary from financial experts to make informed investment decisions. Calculate important metrics including returns, compound annual growth rates, dividend yields, and tax implications. Receive customizable alerts for significant price movements, earnings announcements, dividend payments, and portfolio rebalancing opportunities. Compare your portfolio's performance against relevant benchmarks and indices to evaluate your investment strategy's effectiveness.",
+    "size": 64.2,
+    "reviews": 156780,
+    "ratingAvg": 4.6,
+    "downloads": 5700000,
+    "ratings": [
+      { "name": "1 star", "count": 3140 },
+      { "name": "2 star", "count": 4700 },
+      { "name": "3 star", "count": 15680 },
+      { "name": "4 star", "count": 62710 },
+      { "name": "5 star", "count": 70550 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1523287562758-66c7fc58967f?w=512",
+    "title": "YogaFlow Practice",
+    "companyName": "Mindful Movement Studios",
+    "id": 28,
+    "description": "Discover inner peace and physical strength with YogaFlow Practice, your personal yoga studio accessible anytime, anywhere. Whether you're a complete beginner taking your first steps into yoga or an experienced practitioner looking to deepen your practice, our extensive library offers classes for every level and goal. Choose from various yoga styles including Hatha, Vinyasa, Ashtanga, Yin, Restorative, and Power Yoga, each taught by certified instructors with years of teaching experience. Filter classes by duration from quick 10-minute sessions perfect for busy mornings to comprehensive 90-minute flows for weekend practice, and select focus areas such as flexibility, strength, stress relief, or specific body parts needing attention. Follow detailed video demonstrations with multiple camera angles showing proper form and alignment, listen to clear verbal cues guiding you through each pose, and use the pause feature to hold challenging positions longer or take needed breaks. Build custom sequences by combining favorite poses, save routines you love for repeated practice, and track your yoga journey with practice statistics and streaks. Access complementary breathing exercises and meditation sessions that enhance your yoga practice and promote overall wellbeing. The app includes pose library with detailed instructions, benefits, and modifications for common yoga asanas, helping you understand the purpose and proper execution of each movement.",
+    "size": 118.4,
+    "reviews": 189340,
+    "ratingAvg": 4.8,
+    "downloads": 6900000,
+    "ratings": [
+      { "name": "1 star", "count": 3790 },
+      { "name": "2 star", "count": 5680 },
+      { "name": "3 star", "count": 18930 },
+      { "name": "4 star", "count": 56800 },
+      { "name": "5 star", "count": 104140 }
+    ]
+  }
+]
