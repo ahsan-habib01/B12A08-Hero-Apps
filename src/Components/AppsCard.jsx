@@ -1,8 +1,7 @@
 import { ArrowDownToLine, Star } from 'lucide-react';
 import React from 'react';
 
-
-const FeaturedApp = ({ app }) => {
+const AppsCard = ({app}) => {
   const { image, title, companyName, downloads, ratingAvg } = app;
   // console.log(app);
   return (
@@ -29,4 +28,4 @@ const FeaturedApp = ({ app }) => {
   );
 };
 
-export default FeaturedApp;
+export default AppsCard;
