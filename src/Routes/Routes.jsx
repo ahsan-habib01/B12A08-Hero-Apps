@@ -5,11 +5,13 @@ import Apps from '../Pages/Apps';
 import Installation from '../Pages/Installation';
 import { Component } from 'react';
 import AppDetails from '../Pages/AppDetails';
+import Error from '../Pages/Error';
 
 const router = createBrowserRouter([
   {
     path: '/',
     Component: RootLayout,
+    errorElement: <Error></Error>,
     children: [
       {
         index: true,

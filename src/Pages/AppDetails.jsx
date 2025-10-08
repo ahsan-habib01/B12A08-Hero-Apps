@@ -1,9 +1,7 @@
-import React from 'react';
 import { useParams } from 'react-router';
 import useApps from './../Hooks/useApps';
 import Loading from './../Components/Loading';
 import { ArrowDownToLine, Star, ThumbsUp } from 'lucide-react';
-import { FaStar } from 'react-icons/fa';
 import {
   Bar,
   BarChart,
@@ -13,17 +11,13 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
+import { toast } from 'react-toastify';
 
 const AppDetails = () => {
   const { id } = useParams();
-
-  // console.log(id);
   const { apps, loading } = useApps();
 
-  // console.log(apps);
-
   const app = apps.find(a => a.id === Number(id));
-  console.log(app);
   if (loading) return <Loading></Loading>;
 
   const {
@@ -36,17 +30,30 @@ const AppDetails = () => {
     reviews,
     size,
     ratings,
-  } = app;
+  } = app || {};
 
-  // console.log(a);
+  const handleAddToInstallation = () => {
+    const existingList = JSON.parse(localStorage.getItem('installList'));
+    let updatedList = [];
+    if (existingList) {
+      const isDuplicate = existingList.some(p => p.id === app.id);
+      if (isDuplicate) return toast.warning('sorry vai');
+      updatedList = [...existingList, app];
+    } else {
+      toast.success('Yahooo');
+      updatedList.push(app);
+    }
+
+    localStorage.setItem('installList', JSON.stringify(updatedList));
+  };
 
   return (
     <div className="py-10 bg-gray-200">
       <div className="max-w-6xl mx-auto">
         {/* Details */}
-        <div className="flex gap-5 pb-10">
-          <figure className=" bg-white p-5">
-            <img className="h-45 w-40 object-cover" src={image} alt="" />
+        <div className="flex gap-10 pb-10">
+          <figure className="">
+            <img className="w-55 h-full object-cover" src={image} alt="" />
           </figure>
           <div>
             <div className="pb-3">
@@ -79,7 +86,10 @@ const AppDetails = () => {
                 </div>
               </div>
             </div>
-            <button className="btn bg-[#00d390] text-white ">
+            <button
+              onClick={handleAddToInstallation}
+              className="btn bg-[#00d390] text-white "
+            >
               Install Now ({size}MB)
             </button>
           </div>
@@ -87,7 +97,7 @@ const AppDetails = () => {
 
         {/* Ratings */}
         <hr className="pb-10 text-gray-400" />
-        <div >
+        <div>
           <h1 className="text-2xl font-semibold pb-2">Ratings</h1>
           <div>
             <ResponsiveContainer width="100%" height={300}>
