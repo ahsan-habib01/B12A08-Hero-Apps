@@ -8,7 +8,7 @@
     "size": 45.8,
     "reviews": "12K",
     "ratingAvg": 4.6,
-    "downloads": "5.2M",
+    "downloads": 52,
     "ratings": [
       { "name": "1 star", "count": 3850 },
       { "name": "2 star", "count": 5120 },
@@ -26,7 +26,7 @@
     "size": 67.3,
     "reviews": "24.6K",
     "ratingAvg": 4.7,
-    "downloads": "8.5M",
+    "downloads": 85,
     "ratings": [
       { "name": "1 star", "count": 4910 },
       { "name": "2 star", "count": 7370 },
@@ -44,7 +44,7 @@
     "size": 38.5,
     "reviews": "18.7K",
     "ratingAvg": 4.5,
-    "downloads": "6.8M",
+    "downloads": 8,
     "ratings": [
       { "name": "1 star", "count": 5610 },
       { "name": "2 star", "count": 9350 },
@@ -62,7 +62,7 @@
     "size": 125.7,
     "reviews": "34.3K",
     "ratingAvg": 4.8,
-    "downloads": "1.2M",
+    "downloads": 12,
     "ratings": [
       { "name": "1 star", "count": 6850 },
       { "name": "2 star", "count": 10280 },
@@ -80,7 +80,7 @@
     "size": 52.4,
     "reviews": "19.9K",
     "ratingAvg": 4.7,
-    "downloads": "7.3M",
+    "downloads": 73,
     "ratings": [
       { "name": "1 star", "count": 3970 },
       { "name": "2 star", "count": 5960 },
@@ -98,7 +98,7 @@
     "size": 89.2,
     "reviews": "45.7K",
     "ratingAvg": 4.6,
-    "downloads": "15M",
+    "downloads": 25,
     "ratings": [
       { "name": "1 star", "count": 9140 },
       { "name": "2 star", "count": 13700 },
@@ -116,7 +116,7 @@
     "size": 41.6,
     "reviews": "16.8K",
     "ratingAvg": 4.5,
-    "downloads": "5.9M",
+    "downloads": 5.9,
     "ratings": [
       { "name": "1 star", "count": 5040 },
       { "name": "2 star", "count": 8390 },
@@ -134,7 +134,7 @@
     "size": 156.3,
     "reviews": "28.9K",
     "ratingAvg": 4.6,
-    "downloads": "9.2M",
+    "downloads": 92,
     "ratings": [
       { "name": "1 star", "count": 5790 },
       { "name": "2 star", "count": 8680 },
@@ -152,7 +152,7 @@
     "size": 72.8,
     "reviews": "67.9K",
     "ratingAvg": 4.4,
-    "downloads": "25M",
+    "downloads": 25,
     "ratings": [
       { "name": "1 star", "count": 20370 },
       { "name": "2 star", "count": 27160 },
@@ -170,7 +170,7 @@
     "size": 95.4,
     "reviews": "42.4K",
     "ratingAvg": 4.7,
-    "downloads": "11M",
+    "downloads": 11,
     "ratings": [
       { "name": "1 star", "count": 8470 },
       { "name": "2 star", "count": 12710 },
@@ -188,7 +188,7 @@
     "size": 48.9,
     "reviews": "31.2K",
     "ratingAvg": 4.5,
-    "downloads": "13.5M",
+    "downloads": 135,
     "ratings": [
       { "name": "1 star", "count": 9370 },
       { "name": "2 star", "count": 15620 },
@@ -206,7 +206,7 @@
     "size": 34.7,
     "reviews": "26.8K",
     "ratingAvg": 4.6,
-    "downloads": "18M",
+    "downloads": 1.1,
     "ratings": [
       { "name": "1 star", "count": 5360 },
       { "name": "2 star", "count": 8030 },
@@ -224,7 +224,7 @@
     "size": 55.3,
     "reviews": "14.6K",
     "ratingAvg": 4.7,
-    "downloads": "4.2M",
+    "downloads": 42,
     "ratings": [
       { "name": "1 star", "count": 2910 },
       { "name": "2 star", "count": 4370 },
@@ -238,11 +238,11 @@
     "title": "AutoTrack Vehicle Manager",
     "companyName": "Motor Management Solutions",
     "id": 14,
-    "description": "Keep your valuable vehicle running in peak condition and effectively maximize its potential resale value with AutoTrack Vehicle Manager, the absolutely essential application for all car owners who prioritize performance and consistent maintenance. Diligently track every bit of service history, including routine oil changes, necessary tire rotations, crucial brake service, and all major repairs, with easy-to-use digital receipt storage and automatic mileage logging. Set fully customized **maintenance reminders** based on specific time or mileage intervals, ensuring you never miss a vital service appointment that could impact your car’s longevity. Monitor your fuel consumption and accurately track gas expenses to identify important trends, improve your overall vehicle efficiency, and spot potential mechanical issues proactively before they escalate into costly problems.\n\nThe app includes a massive, comprehensive maintenance schedule database covering thousands of different vehicle makes and models, guaranteeing you can precisely follow every manufacturer's recommendation. Easily find nearby, reputable service stations, compare accurate pricing for both parts and labor, and read genuine reviews from other drivers. Store all your critical vehicle information, including VIN, registration, insurance details, and warranty information, for immediate access during emergencies or service visits. Generate detailed, exportable reports perfect for tax purposes or comprehensive resale documentation, and receive timely alerts for registration renewals, insurance policy expirations, and necessary emission testing requirements in your specific area.",
+    "description": "Keep your valuable vehicle running in peak condition and effectively maximize its potential resale value with AutoTrack Vehicle Manager, the absolutely essential application for all car owners who prioritize performance and consistent maintenance. Diligently track every bit of service history, including routine oil changes, necessary tire rotations, crucial brake service, and all major repairs, with easy-to-use digital receipt storage and automatic mileage logging. Set fully customized **maintenance reminders** based on specific time or mileage intervals, ensuring you never miss a vital service appointment that could impact your car's longevity. Monitor your fuel consumption and accurately track gas expenses to identify important trends, improve your overall vehicle efficiency, and spot potential mechanical issues proactively before they escalate into costly problems.\n\nThe app includes a massive, comprehensive maintenance schedule database covering thousands of different vehicle makes and models, guaranteeing you can precisely follow every manufacturer's recommendation. Easily find nearby, reputable service stations, compare accurate pricing for both parts and labor, and read genuine reviews from other drivers. Store all your critical vehicle information, including VIN, registration, insurance details, and warranty information, for immediate access during emergencies or service visits. Generate detailed, exportable reports perfect for tax purposes or comprehensive resale documentation, and receive timely alerts for registration renewals, insurance policy expirations, and necessary emission testing requirements in your specific area.",
     "size": 42.1,
     "reviews": "9.9K",
     "ratingAvg": 4.4,
-    "downloads": "3.1M",
+    "downloads": 3.1,
     "ratings": [
       { "name": "1 star", "count": 2960 },
       { "name": "2 star", "count": 4940 },
@@ -260,7 +260,7 @@
     "size": 68.5,
     "reviews": "23.5K",
     "ratingAvg": 4.6,
-    "downloads": "7.8M",
+    "downloads": 7.8,
     "ratings": [
       { "name": "1 star", "count": 4700 },
       { "name": "2 star", "count": 7050 },
@@ -269,7 +269,6 @@
       { "name": "5 star", "count": 105690 }
     ]
   },
-
   {
     "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=512",
     "title": "JobSeeker Professional",
@@ -279,7 +278,7 @@
     "size": 51.7,
     "reviews": "15.6K",
     "ratingAvg": 4.5,
-    "downloads": "5.4M",
+    "downloads": 5.4,
     "ratings": [
       { "name": "1 star", "count": 4690 },
       { "name": "2 star", "count": 7820 },
@@ -297,7 +296,7 @@
     "size": 178.6,
     "reviews": "18.8K",
     "ratingAvg": 4.6,
-    "downloads": "6.2M",
+    "downloads": 6.2,
     "ratings": [
       { "name": "1 star", "count": 3760 },
       { "name": "2 star", "count": 5640 },
@@ -315,7 +314,7 @@
     "size": 63.2,
     "reviews": "21.3K",
     "ratingAvg": 4.8,
-    "downloads": "8.9M",
+    "downloads": 8.9,
     "ratings": [
       { "name": "1 star", "count": 4270 },
       { "name": "2 star", "count": 6400 },
@@ -333,7 +332,7 @@
     "size": 44.8,
     "reviews": "17.9K",
     "ratingAvg": 4.7,
-    "downloads": "9.5M",
+    "downloads": 9.5,
     "ratings": [
       { "name": "1 star", "count": 3580 },
       { "name": "2 star", "count": 5370 },
@@ -351,7 +350,7 @@
     "size": 58.4,
     "reviews": "34.6K",
     "ratingAvg": 4.5,
-    "downloads": "14M",
+    "downloads": 14,
     "ratings": [
       { "name": "1 star", "count": 10370 },
       { "name": "2 star", "count": 17280 },
@@ -369,7 +368,7 @@
     "size": 92.7,
     "reviews": "89.2K",
     "ratingAvg": 4.3,
-    "downloads": "35M",
+    "downloads": 35,
     "ratings": [
       { "name": "1 star", "count": 35690 },
       { "name": "2 star", "count": 53540 },
@@ -387,7 +386,7 @@
     "size": 87.3,
     "reviews": "12.4K",
     "ratingAvg": 4.7,
-    "downloads": "3.8M",
+    "downloads": 3.8,
     "ratings": [
       { "name": "1 star", "count": 2480 },
       { "name": "2 star", "count": 3720 },
@@ -405,7 +404,7 @@
     "size": 156.8,
     "reviews": "38.9K",
     "ratingAvg": 4.6,
-    "downloads": "16M",
+    "downloads": 16,
     "ratings": [
       { "name": "1 star", "count": 7790 },
       { "name": "2 star", "count": 11680 },
@@ -423,7 +422,7 @@
     "size": 71.5,
     "reviews": "26.7K",
     "ratingAvg": 4.6,
-    "downloads": "10.5M",
+    "downloads": 10.5,
     "ratings": [
       { "name": "1 star", "count": 5350 },
       { "name": "2 star", "count": 8020 },
@@ -441,7 +440,7 @@
     "size": 49.6,
     "reviews": "19.9K",
     "ratingAvg": 4.5,
-    "downloads": "7.6M",
+    "downloads": 7.6,
     "ratings": [
       { "name": "1 star", "count": 3970 },
       { "name": "2 star", "count": 5960 },
@@ -459,7 +458,7 @@
     "size": 78.9,
     "reviews": "23.5K",
     "ratingAvg": 4.7,
-    "downloads": "8.2M",
+    "downloads": 8.2,
     "ratings": [
       { "name": "1 star", "count": 4690 },
       { "name": "2 star", "count": 7040 },
@@ -477,7 +476,7 @@
     "size": 64.2,
     "reviews": "15.7K",
     "ratingAvg": 4.6,
-    "downloads": "5.7M",
+    "downloads": 5.7,
     "ratings": [
       { "name": "1 star", "count": 3140 },
       { "name": "2 star", "count": 4700 },
@@ -495,7 +494,7 @@
     "size": 118.4,
     "reviews": "18.9K",
     "ratingAvg": 4.8,
-    "downloads": "6.9M",
+    "downloads": 6.7,
     "ratings": [
       { "name": "1 star", "count": 3790 },
       { "name": "2 star", "count": 5680 },
@@ -505,3 +504,4 @@
     ]
   }
 ]
+

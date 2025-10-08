@@ -19,7 +19,7 @@ const AppsCard = ({app}) => {
         <div className="flex justify-between items-center px-5 pb-5">
           <p className="badge bg-[#F1F5E8] text-[#00D390]">
             <ArrowDownToLine size={16} color="#00D390" strokeWidth={2} />
-            {downloads}
+            {downloads}M
           </p>
           <p className="badge bg-[#FFF0E1] text-[#FF8811]">
             <Star size={16} color="#FF8811" />

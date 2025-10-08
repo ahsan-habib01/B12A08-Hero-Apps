@@ -1,19 +1,44 @@
 import React, { useEffect, useState } from 'react';
 import InstalledList from '../Components/InstalledList';
+import { toast } from 'react-toastify';
 
-const Installation = () => {
+const Installation = ( ) => {
   const [installList, setInstallList] = useState([]);
   const [sortOrder, setSortOrder] = useState('none');
+
 
   useEffect(() => {
     const savedList = JSON.parse(localStorage.getItem('installList'));
     if (savedList) setInstallList(savedList);
   }, []);
 
-  
+  const sortedItem = (() => {
+    if (sortOrder === 'download-asc') {
+      return [...installList].sort((a, b) => a.downloads - b.downloads);
+    } else if (sortOrder === 'download-desc') {
+      return [...installList].sort((a, b) => b.downloads - a.downloads);
+    } else {
+      return installList;
+    }
+  })();
 
+  const handleUninstall = app => {
+    const existingList = JSON.parse(localStorage.getItem('installList')) || [];
+    let updatedList = existingList.filter(p => p.id !== app.id);
 
-
+    localStorage.setItem('installList', JSON.stringify(updatedList));
+    toast.info(`${app.title} is Uninstalled from your device!`, {
+      position: 'top-center',
+      autoClose: 5000,
+      hideProgressBar: false,
+      closeOnClick: false,
+      pauseOnHover: true,
+      draggable: true,
+      progress: undefined,
+      theme: 'colored',
+    });
+    setInstallList(updatedList);
+  };
 
   return (
     <div className="bg-gray-200 text-center py-10">
@@ -25,9 +50,9 @@ const Installation = () => {
       </div>
       <div className="flex justify-between items-center max-w-6xl mx-auto py-5">
         <h1 className="text-lg lg:text-2xl font-semibold">
-          ({installList.length}) Apps Found
+          ({sortedItem.length}) Apps Found
         </h1>
-        <label className='form-control w-full max-w-xs'>
+        <label className="form-control w-full max-w-xs">
           <select
             className="select select-bordered"
             value={sortOrder}
@@ -41,8 +66,12 @@ const Installation = () => {
       </div>
 
       <div className="space-y-3">
-        {installList.map(inst => (
-          <InstalledList key={inst.id} inst={inst}></InstalledList>
+        {sortedItem.map(inst => (
+          <InstalledList
+            key={inst.id}
+            inst={inst}
+            handleUninstall={handleUninstall}
+          ></InstalledList>
         ))}
       </div>
     </div>

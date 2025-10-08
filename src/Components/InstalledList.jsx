@@ -1,10 +1,11 @@
 import { ArrowDownToLine, Star } from 'lucide-react';
 import React from 'react';
 
-const InstalledList = ({ inst }) => {
-  console.log(inst);
-
+const InstalledList = ({ inst, handleUninstall }) => {
   const { image, title, downloads, ratingAvg, size } = inst;
+
+  
+
   return (
     <div className="bg-white max-w-6xl mx-auto p-4 flex justify-between items-center">
       <div className="flex gap-5">
@@ -23,7 +24,12 @@ const InstalledList = ({ inst }) => {
           </div>
         </div>
       </div>
-      <button className="btn bg-[#02d391] text-white">Uninstall</button>
+      <button
+        onClick={() => handleUninstall(inst)}
+        className="btn bg-[#02d391] text-white"
+      >
+        Uninstall
+      </button>
     </div>
   );
 };

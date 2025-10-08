@@ -40,7 +40,7 @@ const AppDetails = () => {
       if (isDuplicate) return toast.warning('sorry vai');
       updatedList = [...existingList, app];
     } else {
-      toast.success('Yahooo');
+      // toast.success('Yahooo');
       updatedList.push(app);
     }
 
@@ -72,7 +72,7 @@ const AppDetails = () => {
                 <div>
                   <ArrowDownToLine size={28} color="#23d166" />
                   <p className="text-[#001931]">Downloads</p>
-                  <h2 className="text-4xl font-bold">{downloads}</h2>
+                  <h2 className="text-4xl font-bold">{downloads}M</h2>
                 </div>
                 <div>
                   <Star size={28} color="#FF8811" />
