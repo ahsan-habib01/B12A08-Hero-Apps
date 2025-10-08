@@ -29,6 +29,10 @@ const router = createBrowserRouter([
         path: '/app/:id',
         Component: AppDetails,
       },
+      {
+        path: '*',
+        Component: Error,
+      }
     ],
   },
 ]);
