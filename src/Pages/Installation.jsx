@@ -1,12 +1,11 @@
 import React, { useEffect, useState } from 'react';
 import InstalledList from '../Components/InstalledList';
 import { toast } from 'react-toastify';
-import { Frown } from 'lucide-react';
+import { OctagonAlert } from 'lucide-react';
 
-const Installation = ( ) => {
+const Installation = () => {
   const [installList, setInstallList] = useState([]);
   const [sortOrder, setSortOrder] = useState('none');
-
 
   useEffect(() => {
     const savedList = JSON.parse(localStorage.getItem('installList'));
@@ -29,14 +28,14 @@ const Installation = ( ) => {
 
     localStorage.setItem('installList', JSON.stringify(updatedList));
     toast.info(`${app.title} is Uninstalled from your device!`, {
-      position: 'top-center',
-      autoClose: 5000,
+      position: 'top-right',
+      autoClose: 2000,
       hideProgressBar: false,
       closeOnClick: false,
       pauseOnHover: true,
       draggable: true,
       progress: undefined,
-      theme: 'colored',
+      theme: 'dark',
     });
     setInstallList(updatedList);
   };
@@ -68,8 +67,8 @@ const Installation = ( ) => {
 
       <div className="space-y-3">
         {sortedItem.length === 0 ? (
-          <div className="py-20 text-center text-gray-500 text-lg">
-            <Frown className='mx-auto' size={76} color="#e5c75d" />
+          <div className="py-20 text-center text-gray-500 text-lg space-y-4">
+            <OctagonAlert className="mx-auto" size={120} color="#e5c75d" />
             <p>You have not installed any apps yet.</p>
           </div>
         ) : (

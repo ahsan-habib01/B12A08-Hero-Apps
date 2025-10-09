@@ -17,12 +17,17 @@ const Error = () => {
             Sorry, The page you are looking for might removed, renamed, or it
             temporarily unavailable!
           </p>
-          <Link to="/" className="btn text-lg bg-[#9f62f2] text-white mr-3">
-            Back to Home
-          </Link>
-          <Link to="/apps" className="btn btn-outline text-[#9f62f2] text-lg ">
-            Browse to Apps
-          </Link >
+          <div>
+            <Link to="/" className="btn text-lg bg-[#9f62f2] text-white mr-3">
+              Back to Home
+            </Link>
+            <Link
+              to="/apps"
+              className="btn btn-outline text-[#9f62f2] text-lg "
+            >
+              Browse to Apps
+            </Link>
+          </div>
         </div>
       </div>
     </div>

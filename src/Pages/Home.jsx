@@ -1,11 +1,11 @@
-import React from 'react';
-import { FaAppStoreIos, FaDownload, FaGooglePlay, FaStar } from 'react-icons/fa';
-import { IoLogoGooglePlaystore } from 'react-icons/io5';
+import {  FaDownload, FaGooglePlay, FaStar } from 'react-icons/fa';
 import { Link } from 'react-router';
 import useApps from '../Hooks/useApps';
 import FeaturedApp from '../Components/FeaturedApp';
 import Loading from '../Components/Loading';
 import heroImg from '../assets/hero.png'
+import playStore from '../assets/playStore-96.png'
+import appStore from '../assets/appStore-48.png'
 
 const Home = () => {
   const { apps, loading } = useApps();
@@ -25,16 +25,16 @@ const Home = () => {
       </p>
       <div>
         <Link to="https://play.google.com/store/apps/" className="btn mr-2">
-          <IoLogoGooglePlaystore />
-          Play Store
+          <img className="h-6 w-6" src={playStore} alt="" />
+          <p className="text-lg">Play Store</p>
         </Link>
         <Link to="https://www.apple.com/app-store/" className="btn">
-          <FaAppStoreIos />
-          App Store
+          <img className="h-6 w-6" src={appStore} alt="" />
+          <p className="text-lg">App Store</p>
         </Link>
 
-        <div className='pt-10 '>
-          <img className='mx-auto ' src={heroImg} alt="" />
+        <div className="pt-10 ">
+          <img className="mx-auto " src={heroImg} alt="" />
         </div>
 
         <section className="bg-gradient-to-br from-[#632EE3] to-[#9F62F2] py-15">

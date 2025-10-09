@@ -1,8 +1,10 @@
 import { ArrowDownToLine, Star } from 'lucide-react';
 import React from 'react';
 import { Link } from 'react-router';
+import downloadImage from '../assets/icon-downloads.png';
+import ratingImage from '../assets/icon-ratings.png';
 
-const AppsCard = ({app}) => {
+const AppsCard = ({ app }) => {
   const { image, title, companyName, downloads, ratingAvg, id } = app;
   // console.log(app);
   return (
@@ -17,12 +19,12 @@ const AppsCard = ({app}) => {
           </h2>
         </div>
         <div className="flex justify-between items-center px-5 pb-5">
-          <p className="badge bg-[#F1F5E8] text-[#00D390]">
-            <ArrowDownToLine size={16} color="#00D390" strokeWidth={2} />
+          <p className="badge bg-[#F1F5E8] text-[#30ab75]">
+            <img className="h-3.5 w-3.5" src={downloadImage} alt="" />
             {downloads}M
           </p>
           <p className="badge bg-[#FFF0E1] text-[#FF8811]">
-            <Star size={16} color="#FF8811" />
+            <img className="h-3.5 w-3.5" src={ratingImage} alt="" />
             {ratingAvg}
           </p>
         </div>

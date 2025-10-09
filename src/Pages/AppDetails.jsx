@@ -1,7 +1,6 @@
 import { useParams } from 'react-router';
 import useApps from './../Hooks/useApps';
 import Loading from './../Components/Loading';
-import { ArrowDownToLine, Star, ThumbsUp } from 'lucide-react';
 import {
   Bar,
   BarChart,
@@ -14,6 +13,9 @@ import {
 import { toast } from 'react-toastify';
 import { useEffect, useState } from 'react';
 import AppNotFound from './AppNotFound';
+import downloadImage from '../assets/icon-downloads.png'
+import ratingImage from '../assets/icon-ratings.png'
+import reviewImage from '../assets/icon-review.png'
 
 const AppDetails = () => {
   const { id } = useParams();
@@ -57,8 +59,8 @@ const AppDetails = () => {
 
     localStorage.setItem('installList', JSON.stringify(updatedList));
     toast.success(`${title} is Installed Successfully!`, {
-      position: 'top-center',
-      autoClose: 5000,
+      position: 'top-right',
+      autoClose: 2000,
       hideProgressBar: false,
       closeOnClick: false,
       pauseOnHover: true,
@@ -90,18 +92,18 @@ const AppDetails = () => {
 
             <div className="py-3">
               <div className="flex gap-20  items-center">
-                <div>
-                  <ArrowDownToLine size={28} color="#23d166" />
+                <div className="space-y-0.5">
+                  <img className="h-8 w-8" src={downloadImage} alt="" />
                   <p className="text-[#001931]">Downloads</p>
                   <h2 className="text-4xl font-bold">{downloads}M</h2>
                 </div>
-                <div>
-                  <Star size={28} color="#FF8811" />
+                <div className="space-y-0.5">
+                  <img className="h-8 w-8" src={ratingImage} alt="" />
                   <p className="text-[#001931]">Average Ratings</p>
                   <h2 className="text-4xl font-bold">{ratingAvg}</h2>
                 </div>
                 <div>
-                  <ThumbsUp size={28} color="#8257e7" />
+                <img className="h-8 w-8" src={reviewImage} alt="" />
                   <p className="text-[#001931]">Total Reviews</p>
                   <h2 className="text-4xl font-bold">{reviews}</h2>
                 </div>

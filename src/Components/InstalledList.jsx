@@ -1,5 +1,5 @@
-import { ArrowDownToLine, Star } from 'lucide-react';
-import React from 'react';
+import downloadImage from '../assets/icon-downloads.png';
+import ratingImage from '../assets/icon-ratings.png';
 
 const InstalledList = ({ inst, handleUninstall }) => {
   const { image, title, downloads, ratingAvg, size } = inst;
@@ -13,11 +13,12 @@ const InstalledList = ({ inst, handleUninstall }) => {
         <div>
           <h2 className="text-lg font-semibold">{title}</h2>
           <div className="flex items-center gap-5 pt-1">
-            <span className="flex items-center text-[#00D390] gap-1">
-              <ArrowDownToLine size={16} color="#00D390" /> {downloads}M
+            <span className="flex items-center text-[#30ab75] gap-1">
+              <img className="h-3.5 w-3.5" src={downloadImage} alt="" />{' '}
+              {downloads}M
             </span>
             <span className="flex items-center text-[#FF8811] gap-1">
-              <Star size={16} color="#FF8811" />
+              <img className="h-3.5 w-3.5" src={ratingImage} alt="" />
               {ratingAvg}
             </span>
             <span className="text-[#627382]">{size} MB</span>
