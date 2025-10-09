@@ -52,9 +52,9 @@ const Apps = () => {
       <div>
         {loading ? (
           <Loading></Loading>
-        ) : searchedApps.length === 0 ? (
-            <div >
-              <img className='mx-auto' src={notFoundImage} alt="" />
+        ) : searchedApps.length === 0 && search.trim() !== '' ? (
+          <div>
+            <img className="mx-auto" src={notFoundImage} alt="" />
           </div>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 max-w-6xl mx-auto">

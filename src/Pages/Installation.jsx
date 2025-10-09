@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import InstalledList from '../Components/InstalledList';
 import { toast } from 'react-toastify';
+import { Frown } from 'lucide-react';
 
 const Installation = ( ) => {
   const [installList, setInstallList] = useState([]);
@@ -42,7 +43,7 @@ const Installation = ( ) => {
 
   return (
     <div className="bg-gray-200 text-center py-10">
-      <div className="py-10">
+      <div className="">
         <h1 className="text-4xl font-semibold">Your Installed Apps</h1>
         <p className="text-gray-500 my-2">
           Explore All Trending Apps on the Market developed by us
@@ -66,13 +67,20 @@ const Installation = ( ) => {
       </div>
 
       <div className="space-y-3">
-        {sortedItem.map(inst => (
-          <InstalledList
-            key={inst.id}
-            inst={inst}
-            handleUninstall={handleUninstall}
-          ></InstalledList>
-        ))}
+        {sortedItem.length === 0 ? (
+          <div className="py-20 text-center text-gray-500 text-lg">
+            <Frown className='mx-auto' size={76} color="#e5c75d" />
+            <p>You have not installed any apps yet.</p>
+          </div>
+        ) : (
+          sortedItem.map(inst => (
+            <InstalledList
+              key={inst.id}
+              inst={inst}
+              handleUninstall={handleUninstall}
+            />
+          ))
+        )}
       </div>
     </div>
   );

@@ -5,6 +5,7 @@ import { Link } from 'react-router';
 import useApps from '../Hooks/useApps';
 import FeaturedApp from '../Components/FeaturedApp';
 import Loading from '../Components/Loading';
+import heroImg from '../assets/hero.png'
 
 const Home = () => {
   const { apps, loading } = useApps();
@@ -32,7 +33,11 @@ const Home = () => {
           App Store
         </Link>
 
-        <section className="bg-gradient-to-br from-[#632EE3] to-[#9F62F2] py-15 my-10">
+        <div className='pt-10 '>
+          <img className='mx-auto ' src={heroImg} alt="" />
+        </div>
+
+        <section className="bg-gradient-to-br from-[#632EE3] to-[#9F62F2] py-15">
           <h1 className="text-white text-4xl font-semibold">
             Trusted by Millions, Built for You
           </h1>
