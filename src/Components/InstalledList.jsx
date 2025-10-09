@@ -7,7 +7,7 @@ const InstalledList = ({ inst, handleUninstall }) => {
   
 
   return (
-    <div className="bg-white max-w-6xl mx-auto p-4 flex justify-between items-center">
+    <div className="bg-white max-w-6xl mx-auto p-4 md:flex justify-between items-center">
       <div className="flex gap-5">
         <img className="h-20 w-20 rounded overflow-hidden" src={image} alt="" />
         <div>

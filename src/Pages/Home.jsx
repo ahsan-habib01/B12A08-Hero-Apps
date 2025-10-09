@@ -38,10 +38,10 @@ const Home = () => {
         </div>
 
         <section className="bg-gradient-to-br from-[#632EE3] to-[#9F62F2] py-15">
-          <h1 className="text-white text-4xl font-semibold">
+          <h1 className="text-white text-2xl md:text-3xl lg:text-4xl font-semibold">
             Trusted by Millions, Built for You
           </h1>
-          <div className="py-5 flex justify-between items-center max-w-6xl mx-auto px-45">
+          <div className="py-5 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-between items-center max-w-6xl mx-auto px-2 md:px-5 lg:px-45">
             <div className="text-white">
               <p>
                 <small>Total Downloads</small>
@@ -87,15 +87,17 @@ const Home = () => {
             Explore All Trending Apps on the Market developed by us
           </p>
         </div>
-        {loading ? (
-          <Loading></Loading>
-        ) : (
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 max-w-6xl mx-auto">
-            {featuredApps.map(app => (
-              <FeaturedApp key={app.id} app={app}></FeaturedApp>
-            ))}
-          </div>
-        )}
+        <div className='mx-2'>
+          {loading ? (
+            <Loading></Loading>
+          ) : (
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 max-w-6xl mx-auto">
+              {featuredApps.map(app => (
+                <FeaturedApp key={app.id} app={app}></FeaturedApp>
+              ))}
+            </div>
+          )}
+        </div>
         <div className="pt-10">
           <Link
             to="/apps"
