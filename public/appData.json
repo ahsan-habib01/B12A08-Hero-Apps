@@ -1,8 +1,8 @@
 [
   {
-    "image": "https://plus.unsplash.com/premium_photo-1700520223874-f7acf744d15d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "title": "FitTrack Pro",
-    "companyName": "HealthTech Solutions",
+    "image": "https://play-lh.googleusercontent.com/PMYoJ8A96WzUcOqf8AGiOah-ha4W_YnxdRMB7OVRbNFMB3hR-Vy_EkfTkk8wBlczQg=w480-h960-rw",
+    "title": "Neptune by Programming Hero",
+    "companyName": "Programming Hero",
     "id": 1,
     "description": "FitTrack Pro is your ultimate fitness companion, helping you crush your health and wellness goals. Our comprehensive tracking monitors your daily activities, workouts, nutrition, and sleep. The app offers personalized workout plans from certified trainers, detailed calorie tracking with a massive food database, and seamless integration with popular fitness devices. Track your progress with beautiful charts, join engaging community challenges to stay motivated, and receive **AI-powered recommendations** tailored specifically to your fitness level. Advanced sleep monitoring helps you truly understand your rest patterns, while the water intake tracker ensures you stay perfectly hydrated all day long.\n\nConnect with friends to share achievements and celebrate milestones together in our supportive fitness community. It's the perfect tool for beginners and experienced athletes alike who are serious about their well-being.",
     "size": 45.8,
@@ -18,9 +18,9 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=512",
-    "title": "MealMaster Chef",
-    "companyName": "Culinary Apps Inc",
+    "image": "https://play-lh.googleusercontent.com/edmBVFMS9fhuZycs2I6jCO7vGxhH434upOADR2e3x5Wi_s6Et4vcFY0gYs0q_B0qFS8=s512-rw",
+    "title": "Programming Hero",
+    "companyName": "Coding Fun",
     "id": 2,
     "description": "MealMaster Chef revolutionizes your cooking journey with a collection of over 50,000 delicious recipes sourced from every corner of the globe. Whether you need quick weeknight dinners, elaborate weekend entertaining ideas, or focus on healthy meal prep, our extensive database caters to every taste and skill level. Each recipe is supported by **step-by-step video instructions**, comprehensive nutritional information, and customizable serving sizes to fit your needs. Easily create personalized meal plans based on any dietary preference, generate intelligent shopping lists organized by store aisle, and discover exciting new dishes via our powerful AI recommendation engine.\n\nSave your absolute favorite recipes, add personal notes for future reference, and share your culinary successes with our vibrant global community of passionate food lovers. With ingredient substitution suggestions, built-in cooking timers, and conversion calculators, MealMaster Chef makes home cooking fun, accessible, and completely stress-free.",
     "size": 67.3,
@@ -36,9 +36,9 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=512",
-    "title": "BudgetWise Finance",
-    "companyName": "MoneyMatters Corp",
+    "image": "https://play-lh.googleusercontent.com/sD1PjHX1s76Nw54bki3rIvqjLmKXrJNenU8YmrKTznL3r9c7a8wFzjb6_TUoyKAMa5w=w480-h960-rw",
+    "title": "Phitron",
+    "companyName": "Programming Hero",
     "id": 3,
     "description": "Take definitive control of your financial future with BudgetWise Finance, the all-in-one money management application trusted by millions globally to track expenses, create realistic budgets, and achieve savings goals faster than you ever thought possible. You can securely connect all your bank accounts, credit cards, and investment portfolios in a single, convenient location, protected by bank-level encryption for your absolute peace of mind. The app uses powerful automation to categorize transactions, identify key spending patterns, and provide **actionable insights** that empower you to make smarter, data-driven financial decisions.\n\nEasily set up custom budget categories, receive instant alerts when you're nearing limits, and visually track your cash flow with interactive charts. Plan for major purchases, monitor your debt payoff strategies, and watch your net worth grow over time. Our bill reminder feature guarantees you never miss a payment, keeping you motivated on the path to true financial independence.",
     "size": 38.5,
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=512",
+    "image": "https://play-lh.googleusercontent.com/bRjTZMyBedKMBdcUa4NjVl055n4oN7vY4ZxXYrxgwefHHGmSC_TpV1mmzL_akKVIlw=w480-h960-rw",
     "title": "LinguaLearn Languages",
     "companyName": "Global Education Tech",
     "id": 4,
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=512",
+    "image": "https://play-lh.googleusercontent.com/MhRb_0XBC3LOlGknGLYemWrwZCroj-3s0wge6Os-g1XAlFqNma_GlSyF6rD-2-wQ2eW0=w480-h960-rw",
     "title": "Mindful Meditation",
     "companyName": "Wellness Innovations",
     "id": 5,
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1495364141860-b0d03eccd065?w=512",
+    "image": "https://play-lh.googleusercontent.com/TqRTx4hbmOEeHz2PrH0lcWNNt83S5S22Qm06Epw5Ja-_0rPYgNYNQkAQRLaBKr2l4ew=w480-h960-rw",
     "title": "PhotoPro Editor",
     "companyName": "Creative Media Labs",
     "id": 6,
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=512",
+    "image": "https://play-lh.googleusercontent.com/gnxdXrYB2T5wRCcBskv0FgKFVqpaN_SMW_hJ1i034KxTDIZSuefkCPh66c_iAMakK9MYfn0CSyXPHok514gI=w480-h960-rw",
     "title": "TaskFlow Organizer",
     "companyName": "Productivity Plus",
     "id": 7,
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "https://plus.unsplash.com/premium_photo-1700495922514-7cb4f692cd72?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "https://play-lh.googleusercontent.com/-Nfo1mQarMQCzXT7z_Ol9BMrXC8JlKHJ3XW3L6X69TnDUgJ_pf4mFnqCF0HHAgWKGw=w480-h960-rw",
     "title": "TravelGuide Explorer",
     "companyName": "Adventure Apps Co",
     "id": 8,
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1509909756405-be0199881695?w=512",
+    "image": "https://play-lh.googleusercontent.com/QaRwSp2lguVRlnKZKadnDE9vdv2lt3GWVe847yH1oxzZnHvVRgwjMor3h8cnZyQgttA=w480-h960-rw",
     "title": "MusicStream Premium",
     "companyName": "SoundWave Technologies",
     "id": 9,
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=512",
+    "image": "https://play-lh.googleusercontent.com/R_FnpHpBwRVEA2bGeXMLp4IdfESrnJaKK8Wsx4bLOGLmRXNRozTGSLlsUaw3XyykfHE=w480-h960-rw",
     "title": "CodeLearn Programming",
     "companyName": "TechEducation Inc",
     "id": 10,
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1619191163420-4a7c0798b8a4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "https://play-lh.googleusercontent.com/luLha_idSPcj2X1lF0GvIOuf4ODegCSuSDbPBSc2DXxrwaXCLRc5sWDZteSH0I44gmdG=w480-h960-rw",
     "title": "ShopSmart Deals",
     "companyName": "E-Commerce Solutions",
     "id": 11,
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1570358934836-6802981e481e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "https://play-lh.googleusercontent.com/LzUvgH7tSaV1mzA9lzlA8iKnHCrVZnjTYtLZCgIYzN3FhAM84gJ3XLhHhB_6k3Lu9Q=w480-h960-rw",
     "title": "WeatherWise Forecast",
     "companyName": "Climate Data Systems",
     "id": 12,
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1535016120720-40c646be5580?w=512",
+    "image": "https://play-lh.googleusercontent.com/a64rEDY562YAd39CgAMoEKty3ERSlPK92g5b3NH_gbfJGZEp_Es9TfDcuINjIJdYCxcI=w480-h960-rw",
     "title": "PetCare Companion",
     "companyName": "Animal Wellness Apps",
     "id": 13,
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?w=512",
+    "image": "https://play-lh.googleusercontent.com/tJFVutCO9LO2A-q5sENKeMvZwhmOIpLx-04Gw88eGqAZU8F4rX7NSOiQF0vDdJXXVenx=w480-h960-rw",
     "title": "AutoTrack Vehicle Manager",
     "companyName": "Motor Management Solutions",
     "id": 14,
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=512",
+    "image": "https://play-lh.googleusercontent.com/FW7v2VTzuieOvYwbZlRhvBsZOrzwFM6eLsmIximcDpz_gSSY8E9AsS59XoB_eQUAlrE=w480-h960-rw",
     "title": "StudyBuddy Academic",
     "companyName": "Education Tech Group",
     "id": 15,
@@ -270,7 +270,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=512",
+    "image": "https://play-lh.googleusercontent.com/4WWuynIL-03s_2wTkRXZuK5Tv6Yq5XBADRdEahglN12xqDVdJ5dFP3jevOQqYl47JzA=w480-h960-rw",
     "title": "JobSeeker Professional",
     "companyName": "Career Development Corp",
     "id": 16,
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1572048572872-2394404cf1f3?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "https://play-lh.googleusercontent.com/NJgFjc5QalIzaAzYPAfc93A1j0U9JOBfjHtattMoFA2D8JgzS0JYut63zzFfMpTFodA=w480-h960-rw",
     "title": "HomeDesign Interior",
     "companyName": "Creative Spaces LLC",
     "id": 17,
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1708607181342-a25dd29a5b81?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "https://play-lh.googleusercontent.com/v2X9-Y0Jh_Fs4G2hDa-FXJzZn3-bpd8D1SFyj5_ah368v5Llpf9VH_PoqTy7BfaYjA=w480-h960-rw",
     "title": "BabyTracker Parents",
     "companyName": "Family First Apps",
     "id": 18,
@@ -324,7 +324,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=512",
+    "image": "https://play-lh.googleusercontent.com/v1wl3HtUBvPT1z9Dn0AztdMOsK1KLeBAJeT2kYADvRLlzLiMRDXqDws3Er0ysfCbD3g=w480-h960-rw",
     "title": "MathMaster Calculator",
     "companyName": "STEM Education Tools",
     "id": 19,
@@ -342,7 +342,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=512",
+    "image": "https://play-lh.googleusercontent.com/b3MqZswO8F7j3lcdH01kxzaeHa7vUndy7ma_JwdM_j_Vpj8LKZcKt0HmpORQ7CKF2A=w480-h960-rw",
     "title": "NewsHub Daily",
     "companyName": "Digital Media Network",
     "id": 20,
@@ -360,7 +360,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=512",
+    "image": "https://play-lh.googleusercontent.com/Y6epalNGUKPgWyQpDCgVL621EgmOmXBWfQoJdaM8v0irKWEII5bEDvpaWp7Mey2MVg=w480-h960-rw",
     "title": "SocialConnect Network",
     "companyName": "Community Apps Inc",
     "id": 21,
@@ -378,7 +378,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=512",
+    "image": "https://play-lh.googleusercontent.com/sBSEbfZU981xEcvjCg9n_AtJ_QWbVETLLaqxirwXOPhkje5idpL5Yr2umEE8hYDKJw=w480-h960-rw",
     "title": "GardenGrow Planner",
     "companyName": "Green Thumb Technologies",
     "id": 22,
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1560439514-4e9645039924?w=512",
+    "image": "https://play-lh.googleusercontent.com/-PyIQo6PEZmHw21qM0qHQEIyj61J1VHpsOOVb_s8CPQ7GWYpVaEeVfZdOzsZfwXkRy5c=w480-h960-rw",
     "title": "VideoEdit Pro Studio",
     "companyName": "Digital Content Creators",
     "id": 23,
@@ -414,7 +414,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=512",
+    "image": "https://play-lh.googleusercontent.com/3TU0lcOEHV3sqVY8N5ptfoW2JhpTofIXa1xUIcwFnu4GH9NpN1zvgb4dIhmlOessNNM=w480-h960-rw",
     "title": "QuizMaster Learning",
     "companyName": "Interactive Education Co",
     "id": 24,
@@ -432,7 +432,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=512",
+    "image": "https://play-lh.googleusercontent.com/-Y6I8lfxbkZ3WhuVLhsITZCbdGjz0Z_Lj__DOCcHvPrTWdjudg9Lsq9UHvWgefN-bu4=w480-h960-rw",
     "title": "SleepWell Tracker",
     "companyName": "Rest & Recovery Apps",
     "id": 25,
@@ -450,7 +450,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=512",
+    "image": "https://play-lh.googleusercontent.com/fXUaofbBEapWTmqMcuyu5dkviktXCO7WGeEjXgEIekkXhzOQ8vMD8vWKpZ7VaUIa_wM=w480-h960-rw",
     "title": "CodeShare Developer",
     "companyName": "DevTools Solutions",
     "id": 26,
@@ -468,7 +468,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=512",
+    "image": "https://play-lh.googleusercontent.com/DqAKT8mJJWAQMzPuNTFL1CyhwVJkCEfQlv8CGlh7tNLPe81h92T-SwWG6UQLXydpEBNz=w480-h960-rw",
     "title": "InvestSmart Portfolio",
     "companyName": "Financial Growth Systems",
     "id": 27,
@@ -486,7 +486,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1523287562758-66c7fc58967f?w=512",
+    "image": "https://play-lh.googleusercontent.com/vOpMqY5S3wzVi6-NGZs_gKgzbCX__iGZUdFyCtLnKYlunr-Sbeq43l5Ras14WnwUb6NG=w480-h960-rw",
     "title": "YogaFlow Practice",
     "companyName": "Mindful Movement Studios",
     "id": 28,

@@ -74,16 +74,16 @@ const AppDetails = () => {
     <div className="py-10 bg-gray-200">
       <div className="max-w-6xl mx-auto">
         {/* Details */}
-        <div className="flex gap-10 pb-10">
+        <div className="md:flex gap-10 pb-10">
           <figure className="">
-            <img className="w-55 h-full object-cover" src={image} alt="" />
+            <img className="w-60 md:h-full object-cover mx-auto" src={image} alt="" />
           </figure>
           <div>
-            <div className="pb-3">
-              <h1 className="text-3xl font-bold">{title}</h1>
+            <div className="pb-3 ">
+              <h1 className="text-3xl text-center md:text-left font-bold">{title}</h1>
               <p>
                 Developed by{' '}
-                <span className="text-[#8349eb] my-2 font-semibold">
+                <span className="text-[#8349eb] my-2  font-semibold">
                   {companyName}
                 </span>
               </p>
@@ -91,7 +91,7 @@ const AppDetails = () => {
             <hr className="text-gray-400" />
 
             <div className="py-3">
-              <div className="flex gap-20  items-center">
+              <div className="md:flex space-y-3 gap-20 mx-2 items-center">
                 <div className="space-y-0.5">
                   <img className="h-8 w-8" src={downloadImage} alt="" />
                   <p className="text-[#001931]">Downloads</p>
