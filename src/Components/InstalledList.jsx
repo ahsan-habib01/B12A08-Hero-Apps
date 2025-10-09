@@ -11,7 +11,7 @@ const InstalledList = ({ inst, handleUninstall }) => {
       <div className="flex gap-5">
         <img className="h-20 w-20 rounded overflow-hidden" src={image} alt="" />
         <div>
-          <h2 className="text-lg font-semibold">{title}</h2>
+          <h2 className="text-lg text-left font-semibold">{title}</h2>
           <div className="flex items-center gap-5 pt-1">
             <span className="flex items-center text-[#30ab75] gap-1">
               <img className="h-3.5 w-3.5" src={downloadImage} alt="" />{' '}
