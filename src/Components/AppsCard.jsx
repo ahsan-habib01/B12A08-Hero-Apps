@@ -1,12 +1,10 @@
-import { ArrowDownToLine, Star } from 'lucide-react';
-import React from 'react';
 import { Link } from 'react-router';
 import downloadImage from '../assets/icon-downloads.png';
 import ratingImage from '../assets/icon-ratings.png';
 
 const AppsCard = ({ app }) => {
   const { image, title, companyName, downloads, ratingAvg, id } = app;
-  // console.log(app);
+
   return (
     <Link to={`/app/${id}`}>
       <div className="card bg-base-100 shadow-sm hover:scale-105 transition ease-in-out">

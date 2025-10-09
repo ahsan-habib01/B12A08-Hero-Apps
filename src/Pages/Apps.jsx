@@ -1,17 +1,31 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import useApps from '../Hooks/useApps';
 import AppsCard from '../Components/AppsCard';
 import Loading from '../Components/Loading';
-import notFoundImage from '../assets/App-Error.png'
+import notFoundImage from '../assets/App-Error.png';
 
 const Apps = () => {
   const { apps, loading } = useApps();
 
   const [search, setSearch] = useState('');
-  const term = search.trim().toLocaleLowerCase();
-  const searchedApps = term
-    ? apps.filter(app => app.title.toLocaleLowerCase().includes(term))
-    : apps;
+  const [searchLoading, setSearchLoading] = useState(false);
+  const [searchedApps, setSearchedApps] = useState(apps);
+
+  useEffect(() => {
+    setSearchLoading(true); 
+
+    const delay = setTimeout(() => {
+      const term = search.trim().toLocaleLowerCase();
+      const filtered = term
+        ? apps.filter(app => app.title.toLocaleLowerCase().includes(term))
+        : apps;
+
+      setSearchedApps(filtered);
+      setSearchLoading(false); 
+    }, 500); 
+
+    return () => clearTimeout(delay); 
+  }, [search, apps]);
 
   return (
     <div className="bg-gray-200 py-10 text-center">
@@ -21,7 +35,7 @@ const Apps = () => {
       </p>
       <div className="flex justify-between items-center max-w-6xl mx-auto py-10">
         <h1 className="text-lg lg:text-2xl font-semibold">
-          ({searchedApps.length}) Apps Found
+          ({searchedApps?.length || 0}) Apps Found
         </h1>
         <label className="input mr-2 lg:mr-0">
           <svg
@@ -50,11 +64,12 @@ const Apps = () => {
         </label>
       </div>
       <div>
-        {loading ? (
+        {loading || searchLoading ? (
           <Loading></Loading>
         ) : searchedApps.length === 0 && search.trim() !== '' ? (
           <div>
             <img className="mx-auto" src={notFoundImage} alt="" />
+            <p className="text-gray-500 mt-3 text-2xl">No apps found!</p>
           </div>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 max-w-6xl mx-auto">

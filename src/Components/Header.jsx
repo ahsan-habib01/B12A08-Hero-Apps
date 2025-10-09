@@ -16,7 +16,6 @@ const Header = () => {
         </div>
       )}
 
-
       <div className="navbar bg-base-100  max-w-6xl mx-auto">
         <div className="navbar-start">
           <div className="dropdown">
@@ -47,13 +46,13 @@ const Header = () => {
                 </NavLink>
               </li>
               <li>
-                <NavLink to="apps">
+                <NavLink to="/apps">
                   <BookUser />
                   Apps
                 </NavLink>
               </li>
               <li>
-                <NavLink to="installation">
+                <NavLink to="/installation">
                   <ArrowBigDownDash />
                   Installation
                 </NavLink>
@@ -73,13 +72,13 @@ const Header = () => {
               </NavLink>
             </li>
             <li className="text-lg">
-              <NavLink to="apps">
+              <NavLink to="/apps">
                 <BookUser />
                 Apps
               </NavLink>
             </li>
             <li className="text-lg">
-              <NavLink to="installation">
+              <NavLink to="/installation">
                 <ArrowBigDownDash />
                 Installation
               </NavLink>
@@ -89,6 +88,7 @@ const Header = () => {
         <div className="navbar-end">
           <Link
             to="https://github.com/ahsan-habib01"
+            target="_blank"
             className="btn bg-[linear-gradient(125.07deg,#632EE3,#9F62F2_100%)] text-white"
           >
             {' '}

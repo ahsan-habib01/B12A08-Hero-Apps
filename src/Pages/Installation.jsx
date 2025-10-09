@@ -2,14 +2,22 @@ import React, { useEffect, useState } from 'react';
 import InstalledList from '../Components/InstalledList';
 import { toast } from 'react-toastify';
 import { OctagonAlert } from 'lucide-react';
+import Loading from '../Components/Loading';
 
 const Installation = () => {
   const [installList, setInstallList] = useState([]);
   const [sortOrder, setSortOrder] = useState('none');
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const savedList = JSON.parse(localStorage.getItem('installList'));
-    if (savedList) setInstallList(savedList);
+    setLoading(true);
+    const timer = setTimeout(() => {
+      
+      const savedList = JSON.parse(localStorage.getItem('installList')) || [];
+      if (savedList) setInstallList(savedList);
+      setLoading(false)
+    }, 300);
+    return () => clearTimeout(timer)
   }, []);
 
   const sortedItem = (() => {
@@ -39,6 +47,8 @@ const Installation = () => {
     });
     setInstallList(updatedList);
   };
+
+    if (loading) return <Loading />;
 
   return (
     <div className="bg-gray-200 text-center py-10">
