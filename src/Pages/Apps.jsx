@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import useApps from '../Hooks/useApps';
 import AppsCard from '../Components/AppsCard';
 import Loading from '../Components/Loading';
+import notFoundImage from '../assets/App-Error.png'
 
 const Apps = () => {
   const { apps, loading } = useApps();
@@ -51,6 +52,10 @@ const Apps = () => {
       <div>
         {loading ? (
           <Loading></Loading>
+        ) : searchedApps.length === 0 ? (
+            <div >
+              <img className='mx-auto' src={notFoundImage} alt="" />
+          </div>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 max-w-6xl mx-auto">
             {searchedApps.map(app => (

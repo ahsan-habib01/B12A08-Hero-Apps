@@ -6,12 +6,14 @@ import Installation from '../Pages/Installation';
 import { Component } from 'react';
 import AppDetails from '../Pages/AppDetails';
 import Error from '../Pages/Error';
+import Loading from '../Components/Loading';
 
 const router = createBrowserRouter([
   {
     path: '/',
     Component: RootLayout,
     errorElement: <Error></Error>,
+    hydrateFallbackElement: <Loading></Loading>,
     children: [
       {
         index: true,

@@ -23,7 +23,6 @@ const Error = () => {
           <Link to="/apps" className="btn btn-outline text-[#9f62f2] text-lg ">
             Browse to Apps
           </Link >
-          <div className="flex gap-3"></div>
         </div>
       </div>
     </div>

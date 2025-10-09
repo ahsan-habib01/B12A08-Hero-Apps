@@ -12,13 +12,25 @@ import {
   YAxis,
 } from 'recharts';
 import { toast } from 'react-toastify';
+import { useEffect, useState } from 'react';
+import AppNotFound from './AppNotFound';
 
 const AppDetails = () => {
   const { id } = useParams();
   const { apps, loading } = useApps();
+  const [toggle, setToggle] = useState(true);
 
   const app = apps.find(a => a.id === Number(id));
+
+  useEffect(() => {
+    const installedList = JSON.parse(localStorage.getItem('installList')) || [];
+    const isInstalled = installedList.some(p => p.id === Number(id));
+    if (isInstalled) setToggle(false);
+  }, [id]);
+
   if (loading) return <Loading></Loading>;
+
+  if(!app) return <AppNotFound></AppNotFound>
 
   const {
     title,
@@ -40,11 +52,20 @@ const AppDetails = () => {
       if (isDuplicate) return toast.warning('sorry vai');
       updatedList = [...existingList, app];
     } else {
-      // toast.success('Yahooo');
       updatedList.push(app);
     }
 
     localStorage.setItem('installList', JSON.stringify(updatedList));
+    toast.success(`${title} is Installed Successfully!`, {
+      position: 'top-center',
+      autoClose: 5000,
+      hideProgressBar: false,
+      closeOnClick: false,
+      pauseOnHover: true,
+      draggable: true,
+      progress: undefined,
+      theme: 'colored',
+    });
   };
 
   return (
@@ -86,12 +107,21 @@ const AppDetails = () => {
                 </div>
               </div>
             </div>
-            <button
-              onClick={handleAddToInstallation}
-              className="btn bg-[#00d390] text-white "
-            >
-              Install Now ({size}MB)
-            </button>
+            {toggle ? (
+              <button
+                onClick={() => {
+                  setToggle(false);
+                  handleAddToInstallation();
+                }}
+                className="btn bg-[#00d390] text-white "
+              >
+                Install Now ({size}MB)
+              </button>
+            ) : (
+              <button className="btn bg-[#00d390] text-white ">
+                Installed
+              </button>
+            )}
           </div>
         </div>
 
