@@ -29,6 +29,7 @@ const Apps = () => {
 
   return (
     <div className="bg-gray-200 py-10 text-center">
+      <title>Hero Apps - Browse All Apps</title>
       <h1 className="text-4xl font-semibold">Our All Applications</h1>
       <p className="text-gray-500 my-2 px-2">
         Explore All Apps on the Market developed by us. We code for Millions

@@ -5,6 +5,7 @@ import { Link } from 'react-router';
 const Error = () => {
   return (
     <div className="bg-gray-200">
+      <title>Error-404</title>
       <div className="max-w-6xl mx-auto py-10 ">
         <img
           className="mx-auto h-50 w-50 md:h-90 md:w-100"

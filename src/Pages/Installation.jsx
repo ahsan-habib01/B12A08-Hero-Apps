@@ -52,6 +52,7 @@ const Installation = () => {
 
   return (
     <div className="bg-gray-200 text-center py-10">
+      <title>Hero Apps - Your Installations</title>
       <div className="">
         <h1 className="text-4xl font-semibold">Your Installed Apps</h1>
         <p className="text-gray-500 my-2">

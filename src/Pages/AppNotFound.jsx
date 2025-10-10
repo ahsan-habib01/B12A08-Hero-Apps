@@ -4,6 +4,7 @@ import { Link } from 'react-router';
 const AppNotFound = () => {
   return (
     <div className="bg-gray-200">
+      <title>Page Not Found</title>
       <div className="max-w-6xl mx-auto py-20">
         <CircleAlert className="mx-auto" size={164} color="#c51616" />
         <div className="text-center space-y-5">

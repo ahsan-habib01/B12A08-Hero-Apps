@@ -72,6 +72,7 @@ const AppDetails = () => {
 
   return (
     <div className="py-10 bg-gray-200">
+      <title>{ title}</title>
       <div className="max-w-6xl mx-auto">
         {/* Details */}
         <div className="md:flex gap-10 pb-10">
